@@ -3,8 +3,8 @@ import Content from "./Content"
 function App() {
   return (
     <>
-     <Header className=""/>
-     <Content className=""/>
+     <Header />
+     <Content />
     </>
   )
 }
