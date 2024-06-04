@@ -1,6 +1,6 @@
 import React from 'react'
-import { useLocation } from 'react-router-dom';
 function Quiz(props) {
+  const { name, Class } = props;
   const Subject=[
     {name:"ICT"},
     {name:"Mathematics"},
@@ -9,15 +9,15 @@ function Quiz(props) {
     {name:"Health Education"},
     {name:"PHE"},
   ]
-   const location = useLocation();
-   const { name, Class } = location.state || {};
+  ;
+   
   return (
     <>
      <div>
-      {name}-{Class}
+     {name}-{Class}
      </div> 
     </>
   )
 }
 
-export default Quiz
+export default React.memo(Quiz)

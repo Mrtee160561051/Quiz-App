@@ -1,6 +1,7 @@
 import Header from "./Header"
 import Content from "./Content"
-import { useState } from "react"
+import { useState,memo } from "react"
+
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Quiz from './pages/Quiz';
@@ -25,16 +26,19 @@ function App() {
     SetBlock("block");
     SetHide("hidden");
    }
+   
+ const [Class,setClass] = useState("None");
+ const [name,setName] = useState("");
   return (
     <>
      <Router>
      <Header getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>
      
       <Routes>
-        <Route  index element={<Home block={block} hide={hide} getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>} />
-        <Route path="/Quiz-App/" element={<Home block={block} hide={hide} getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>} />
-        <Route path="/" element={<Home block={block} hide={hide} getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>} />
-        <Route path="/Quiz-App/quiz" element={<Quiz />} />
+        <Route  index element={<Home name={name} Class={Class} setClass={setClass} setName={setName} block={block} hide={hide} getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>} />
+        <Route path="/Quiz-App/" element={<Home name={name} Class={Class} setClass={setClass} setName={setName} block={block} hide={hide} getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>} />
+        <Route path="/" element={<Home name={name} Class={Class} setClass={setClass} setName={setName} block={block} hide={hide} getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>} />
+        <Route path="/Quiz-App/quiz" element={<Quiz name={name} Class={Class} />} />
         <Route path="/Quiz-App/about" element={<About />} />
         <Route path="/Quiz-App/services" element={<Services />} />
         <Route path="/Quiz-App/contact" element={<Contact />} />
@@ -44,4 +48,4 @@ function App() {
   )
 }
 
-export default App
+export default memo(App)

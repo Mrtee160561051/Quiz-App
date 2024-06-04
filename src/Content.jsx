@@ -1,18 +1,17 @@
 import { useState } from "react"
 import { Link, useNavigate } from 'react-router-dom';
 const Content = (props)=>{
+  const{Class,setClass,name,setName}=props
     const navigate = useNavigate();
     const classOpts =[
-        {value:"None",label:"Select a class",id:1,disabled:true},
-        {value:"year 1",label:"year 1",id:2,disabled:false},
-        {value:"year 2",label:"year 2",id:3,disabled:false},
-        {value:"year 3",label:"year 3",id:4,disabled:false},
-        {value:"year 4",label:"year 4",id:5,disabled:false},
-        {value:"year 5",label:"year 5",id:6,disabled:false},
-        {value:"Jss 1",label:"Jss 1",id:7,disabled:false}
-      ]
-    const [Class,setClass] = useState("None");
-    const [name,setName] = useState("");
+      {value:"None",label:"Select a class",id:1,disabled:true},
+      {value:"year 1",label:"year 1",id:2,disabled:false},
+      {value:"year 2",label:"year 2",id:3,disabled:false},
+      {value:"year 3",label:"year 3",id:4,disabled:false},
+      {value:"year 4",label:"year 4",id:5,disabled:false},
+      {value:"year 5",label:"year 5",id:6,disabled:false},
+      {value:"Jss 1",label:"Jss 1",id:7,disabled:false}
+    ]
     
     const handleSubmit =(e)=>{
       e.preventDefault();
