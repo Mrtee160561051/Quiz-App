@@ -41,8 +41,8 @@ const Content = (props)=>{
                    </select>
                  </label>
                  <div>
-                    <button onClick={props.handleCancel} className="bg-black rounded m-4 text-[#ffffff] px-5 py-1  hover:bg-[white] hover:text-[black] outline-double outline-2 outline-zinc-400" type="reset">Cancel</button>
-                    <button className="bg-black rounded m-4 text-[#ffffff] px-5 py-1  hover:bg-[white] hover:text-[black] outline-double outline-2 outline-zinc-400" type="submit">Submit</button>
+                    <button onClick={props.handleCancel} className="bg-black rounded m-4 text-[#ffffff] px-5 py-1  hover:bg-[white] hover:text-[black] outline-double outline-2 outline-zinc-400" type="reset">Exit quiz</button>
+                    <button className="bg-black rounded m-4 text-[#ffffff] px-5 py-1  hover:bg-[white] hover:text-[black] outline-double outline-2 outline-zinc-400" type="submit">Continue</button>
                  </div>
              </form>
          </main>

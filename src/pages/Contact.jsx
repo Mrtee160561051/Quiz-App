@@ -1,11 +1,13 @@
 import React from 'react'
-
-function Contact() {
+import Header from '../Header'
+function Contact(props) {
+  const {getStartedBtn,handleCancel} = props
   return (
-    <div>
+    <>
+       <Header getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>
       contact
-    </div>
+    </>
   )
 }
 
-export default Contact
+export default React.memo(Contact)

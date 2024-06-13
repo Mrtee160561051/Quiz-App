@@ -1,11 +1,13 @@
 import React from 'react'
-
-function About() {
+import Header from '../Header'
+function About(props) {
+  const {getStartedBtn,handleCancel} = props
   return (
-    <div>
+    <>
+       <Header getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>
       About
-    </div>
+    </>
   )
 }
 
-export default About
+export default React.memo(About)

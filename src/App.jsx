@@ -32,8 +32,6 @@ function App() {
   return (
     <>
      <Router>
-     <Header getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>
-     
       <Routes>
         <Route  index element={<Home name={name} Class={Class} setClass={setClass} setName={setName} block={block} hide={hide} getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>} />
         <Route path="/Quiz-App/" element={<Home name={name} Class={Class} setClass={setClass} setName={setName} block={block} hide={hide} getStartedBtn={getStartedBtn} handleCancel={handleCancel}/>} />
