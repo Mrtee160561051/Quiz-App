@@ -146,12 +146,14 @@ function QuizSite({ name, Class }) {
                     <p key={i}className='flex'>
                      <span className='basis-[29px]'>{String.fromCharCode(65 + i)}. &nbsp; </span> 
                       <input
+                        id={`question${questions[currentQuestion].id}-${i}`}
                         checked={selectedOptions[questions[currentQuestion].id] === option}
                         onChange={() => handleOptionChange(questions[currentQuestion].id, option)}
                         name={`question${questions[currentQuestion].id}`}
                         value={option}
                         type="radio"
-                      /> &nbsp; &nbsp; {option}
+                      /> &nbsp; &nbsp; 
+                      <label className='text-[clamp(10px,1.5vw,16px)]' htmlFor={`question${questions[currentQuestion].id}-${i}`}>{option}</label>
                     </p>
                   ))}
                 </div>
