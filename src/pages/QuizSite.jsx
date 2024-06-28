@@ -144,7 +144,7 @@ function QuizSite({ name, Class }) {
                 <div className='mt-5'>
                   {questions[currentQuestion].options.map((option, i) => (
                     <p key={i}className='flex'>
-                     <span className='basis-[24px]'>{String.fromCharCode(65 + i)}. &nbsp; </span> 
+                     <span className='basis-[29px]'>{String.fromCharCode(65 + i)}. &nbsp; </span> 
                       <input
                         checked={selectedOptions[questions[currentQuestion].id] === option}
                         onChange={() => handleOptionChange(questions[currentQuestion].id, option)}

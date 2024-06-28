@@ -40,7 +40,7 @@ const Content = (props)=>{
                      </optgroup>
                    </select>
                  </label>
-                 <div className="text-[whitesmoke] text-[14px]">
+                 <div className="text-[whitesmoke] ml-4 text-[14px]">
                     <h2 className="font-extrabold">Quiz Instructions</h2>
                     
                       <li>You have 30 minutes to complete the quiz.</li>
