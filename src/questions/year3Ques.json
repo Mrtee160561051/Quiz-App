@@ -1,0 +1,144 @@
+{
+  "year3Ques": [
+    {
+      "id": 1,
+      "question": "______ is an electronic device which processes instructions given to it.",
+      "image": "",
+      "options": ["Laptop", "television", "computer", "hard note"],
+      "answer": "computer"
+    },
+    {
+      "id": 2,
+      "question": "_____ is the box that contains the engine of the computer.",
+      "image": "",
+      "options": ["System number", "system machine", "system unit", "system engine"],
+      "answer": "system unit"
+    },
+    {
+      "id": 3,
+      "question": "The full meaning of C.P.U is _________",
+      "image": "",
+      "options": ["central productive units", "control processing unit", "center programming unit", "central processing unit"],
+      "answer": "central processing unit"
+    },
+    {
+      "id": 4,
+      "question": "________ is used to type data into the computer.",
+      "image": "",
+      "options": ["Computer control", "computer keyboard", "computer mouse", "computer monitor"],
+      "answer": "computer keyboard"
+    },
+    {
+      "id": 5,
+      "question": "_______ is a part of the computer used to move the cursor on the screen.",
+      "image": "",
+      "options": ["Mouse", "monitor", "keyboard", "C.P.U"],
+      "answer": "Mouse"
+    },
+    {
+      "id": 6,
+      "question": "________ is used to print out what is inside the computer on a piece of paper.",
+      "image": "",
+      "options": ["C.P.U", "R.A.M", "R.O.M", "printer"],
+      "answer": "printer"
+    },
+    {
+      "id": 7,
+      "question": "Which of these is not part of taking care of the computer.",
+      "image": "",
+      "options": ["Cleaning the computer", "by eating beside it", "by not putting heavy objects on it", "protecting it from fire"],
+      "answer": "by eating beside it"
+    },
+    {
+      "id": 8,
+      "question": "______ is a program that allows us to do many tasks on the computer.",
+      "image": "",
+      "options": ["Desktop", "window", "Microsoft", "memory card"],
+      "answer": "Microsoft"
+    },
+    {
+      "id": 9,
+      "question": "Which of these is not part of a computer.",
+      "image": "",
+      "options": ["The monitor", "the stick", "a system unit", "a keyboard"],
+      "answer": "the stick"
+    },
+    {
+      "id": 10,
+      "question": "_______ are those objects a computer saves our work into.",
+      "image": "",
+      "options": ["storage devices", "storage destroyer", "devices", "desktop"],
+      "answer": "storage devices"
+    },
+    {
+      "id": 11,
+      "question": "The full meaning of R.A.M is _______",
+      "image": "",
+      "options": ["read access memory", "random access memory", "random android memory", "random access mother"],
+      "answer": "random access memory"
+    },
+    {
+      "id": 12,
+      "question": "There are ______ type of computer storage devices.",
+      "image": "",
+      "options": ["4", "3", "2", "1"],
+      "answer": "2"
+    },
+    {
+      "id": 13,
+      "question": "_______ is an example of internal storage devices.",
+      "image": "",
+      "options": ["Memory", "flash disk", "floppy diskette", "compact disk"],
+      "answer": "Memory"
+    },
+    {
+      "id": 14,
+      "question": "which of these is not a feature of storage devices.",
+      "image": "",
+      "options": ["They have small storage capacity", "they can store different types of work", "they are small in size", "they are removable"],
+      "answer": "They have small storage capacity"
+    },
+    {
+      "id": 15,
+      "question": "The work in ______ can be changed and saved again.",
+      "image": "",
+      "options": ["R.O.M", "C.P.U", "R.A.M", "U.P.S"],
+      "answer": "R.A.M"
+    },
+    {
+      "id": 16,
+      "question": "There are _______ type of compact disk (CD).",
+      "image": "",
+      "options": ["6", "3", "4", "2"],
+      "answer": "3"
+    },
+    {
+      "id": 17,
+      "question": "_______ has storage capacity while _______ has no storage capacity.",
+      "image": "",
+      "options": ["Storage disk and storage drive", "storage diskette and storage disc", "storage flash and capacity", "floppy diskette and floppy disk"],
+      "answer": "Storage disk and storage drive"
+    },
+    {
+      "id": 18,
+      "question": "The following are functions of a storage device except _______.",
+      "image": "",
+      "options": ["they are used to store computer programs", "they are used to store computer errors", "they are used to install software", "they are used to store and play music"],
+      "answer": "they are used to store computer errors"
+    },
+    {
+      "id": 19,
+      "question": "The following are ways of caring for storage devices except_______.",
+      "image": "",
+      "options": ["Keeping them in a dusty place", "keeping them in a well ventilated place", "not allowing liquids to drop into them", "not twisting them"],
+      "answer": "Keeping them in a dusty place"
+    },
+    {
+      "id": 20,
+      "question": "Which of these is not an example of storage devices.",
+      "image": "",
+      "options": ["Hard disk", "compact disk", "magnetic tape disk", "soft drink"],
+      "answer": "soft drink"
+    }
+  ]
+}

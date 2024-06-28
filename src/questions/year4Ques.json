@@ -1,0 +1,127 @@
+{
+  "year4Ques": [
+    {
+      "id": 1,
+      "question": "The following are advantages of using computers in education Except for ________",
+      "options": ["research and information", "playing outside", "educational games and programs", "virtual classes"],
+      "answer": "playing outside"
+    },
+    {
+      "id": 2,
+      "question": "How can computers help you stay in touch with friends and family?",
+      "options": ["By sending letters through the mail", "By allowing you to send emails and messages", "By reading books", "By riding a bike"],
+      "answer": "By allowing you to send emails and messages"
+    },
+    {
+      "id": 3,
+      "question": "What kind of programs on computers can help you express your creativity?",
+      "options": ["Word processors and spreadsheets", "Drawing and designing programs", "Weather forecast applications", "Online banking tools"],
+      "answer": "Drawing and designing programs"
+    },
+    {
+      "id": 4,
+      "question": "What is one way computers help with organization and efficiency?",
+      "options": ["By providing faster internet speed", "By keeping track of homework and schedules", "By helping you run faster", "By making you taller"],
+      "answer": "By keeping track of homework and schedules"
+    },
+    {
+      "id": 5,
+      "question": "What is the main purpose of computer cables?",
+      "options": ["To decorate the computer", "To connect computers to other devices and transfer data", "To make computers run faster", "To clean the computer"],
+      "answer": "To connect computers to other devices and transfer data"
+    },
+    {
+      "id": 6,
+      "question": "Which cable supplies electricity to your computer?",
+      "options": ["USB cable", "HDMI cable", "Power cable", "Ethernet cable"],
+      "answer": "Power cable"
+    },
+    {
+      "id": 7,
+      "question": "What type of cable would you use to connect an old monitor to a computer?",
+      "options": ["HDMI cable", "USB cable", "VGA cable", "SATA cable"],
+      "answer": "VGA cable"
+    },
+    {
+      "id": 8,
+      "question": "What is the main use of USB cables?",
+      "options": ["To supply power to the computer", "To connect keyboards, mice, and printers to the computer", "To connect the computer to the internet", "To display video and audio on monitors and TVs"],
+      "answer": "To connect keyboards, mice, and printers to the computer"
+    },
+    {
+      "id": 9,
+      "question": "___________ is a device used to magnify images or documents.",
+      "options": ["projector", "project", "painter", "pointer", "printer"],
+      "answer": "printer",
+      "corrected_answer": "projector"
+    },
+    {
+      "id": 10,
+      "question": "A working computer system is made up of hardware, software and ______________",
+      "options": ["commander", "Supporter", "User", "Connector", "cook"],
+      "answer": "User"
+    },
+    {
+      "id": 11,
+      "question": "_____________ ware is the person that operates a computer.",
+      "options": ["human", "animal", "clerk", "man computer", "follower"],
+      "answer": "human"
+    },
+    {
+      "id": 12,
+      "question": "________ boot is the natural way of starting up a computer.",
+      "options": ["cold", "warm", "hot", "fresh"],
+      "answer": "warm",
+      "corrected_answer": "cold"
+    },
+    {
+      "id": 13,
+      "question": "Pictures and folders are examples of _________ data",
+      "options": ["alphabetical", "numerical", "signs", "graphics"],
+      "answer": "graphics"
+    },
+    {
+      "id": 14,
+      "question": "__________ displays moving objects and passes information in form sound and pictures",
+      "options": ["radio", "television", "computer", "newspaper"],
+      "answer": "computer",
+      "corrected_answer": "television"
+    },
+    {
+      "id": 15,
+      "question": "___________ are printed papers containing news and comments.",
+      "options": ["radio", "television", "computer", "newspaper"],
+      "answer": "newspaper"
+    },
+    {
+      "id": 16,
+      "question": "Which activity is commonly facilitated by GPS devices, a common IT gadget?",
+      "options": ["Ice skating", "Navigating routes and finding locations", "Performing magic tricks", "Riding horses"],
+      "answer": "Navigating routes and finding locations"
+    },
+    {
+      "id": 17,
+      "question": "In what field are IT gadgets most commonly used?",
+      "options": ["Agriculture", "Medicine", "Construction", "Information technology"],
+      "answer": "Information technology"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following best describes IT gadgets?",
+      "options": ["Items used for construction", "Devices utilizing advanced technology for various purposes", "Traditional hand tools", "Objects for artistic expression"],
+      "answer": "Devices utilizing advanced technology for various purposes"
+    },
+    {
+      "id": 19,
+      "question": "Which term best characterizes IT gadgets?",
+      "options": ["Primitive", "Analog", "Digital", "Manual"],
+      "answer": "Digital"
+    },
+    {
+      "id": 20,
+      "question": "How often should you back up data on IT gadgets?",
+      "options": ["Never", "Once a year", "Regularly, as per the device’s recommendations", "Only when the device is malfunctioning"],
+      "answer": "Regularly, as per the device’s recommendations"
+    }
+  ]
+}

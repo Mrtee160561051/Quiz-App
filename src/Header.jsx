@@ -1,7 +1,7 @@
 // Header.js
 import { useState } from "react";
 import { Link } from 'react-router-dom';
-import img1 from "./image/greatLil.jpg";
+import img1 from "./image/greatLil.png";
 
 const Header = (props) => {
   const [open, setOpen] = useState(false);
@@ -17,7 +17,7 @@ const Header = (props) => {
   return (
     <header className="bg-white py-1 sticky top-0 z-50">
       <nav className="flex items-center justify-between w-[92%] mx-auto">
-        <img className="w-[3rem]" src={img1} alt="school logo" />
+        <Link to={"/Quiz-App/"}><img className="w-[3.8rem]" src={img1} alt="school logo" /></Link>
         <svg
           className="text-[2em] z-50 w-8 md:hidden absolute top-2 right-7 cursor-pointer"
           onClick={() => setOpen(!open)}
