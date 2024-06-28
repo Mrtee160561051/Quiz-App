@@ -119,7 +119,7 @@ function QuizSite({ name, Class }) {
   console.log(studentScore)
   return (
     <>
-      <form onSubmit={handleFormSubmit}>
+      <form className='min-h-[80vh]' onSubmit={handleFormSubmit}>
         <QuizHeader name={studentName} Class={studentClass} showScore={showScore} setShowScore={setShowScore} />
         <p className='text-center m-auto rounded-xl mt-3 bg-[#e6b82b] w-16'>ICT</p>
         {showScore ? (
