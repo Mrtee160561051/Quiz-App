@@ -120,7 +120,7 @@ function QuizSite({ name, Class }) {
   return (
     <>
       <form onSubmit={handleFormSubmit}>
-        <QuizHeader name={studentName} Class={studentClass} setShowScore={setShowScore} />
+        <QuizHeader name={studentName} Class={studentClass} showScore={showScore} setShowScore={setShowScore} />
         <p className='text-center m-auto rounded-xl mt-3 bg-[#e6b82b] w-16'>ICT</p>
         {showScore ? (
           <div className='text-center text-2xl mt-5'>

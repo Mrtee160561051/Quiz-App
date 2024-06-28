@@ -1,6 +1,7 @@
 import img1 from "../image/greatLil.png";
-import { Link } from 'react-router-dom';
-const QuizHeader = ({ name, Class, setShowScore }) => {
+import { Link, useNavigate } from 'react-router-dom';
+const QuizHeader = ({ name, Class, showScore, setShowScore }) => {
+   const navigate = useNavigate()
   return (
     <header className="bg-white py-1 sticky top-0 z-50 flex">
       <nav className="flex items-center justify-between w-[92%] mx-auto">
@@ -26,7 +27,7 @@ const QuizHeader = ({ name, Class, setShowScore }) => {
           </div>
           <button
             type="button"
-            onClick={() => setShowScore(true)}
+            onClick={() =>{setShowScore(true); showScore && navigate("/Quiz-App")}}
             className="pl-[2%] rounded-lg hover:text-[gray]"
           >
             <svg
@@ -46,7 +47,7 @@ const QuizHeader = ({ name, Class, setShowScore }) => {
                 <path d="M16 2v3.4a.6.6 0 0 0 .6.6H20m-4 13h6m0 0l-3-3m3 3l-3 3" />
               </g>
             </svg>
-            <p className="text-sm">Submit</p>
+            <p className="text-sm">{showScore?"Home":"Submit"}</p>
           </button>
         </div>
       </nav>

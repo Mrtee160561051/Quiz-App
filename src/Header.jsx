@@ -5,7 +5,7 @@ import img1 from "./image/greatLil.png";
 
 const Header = (props) => {
   const [open, setOpen] = useState(false);
-
+  
   const Links = [
     { name: "Home", link: "/Quiz-App/" },
     { name: "Quiz", link: "/Quiz-App/quiz" },
@@ -20,7 +20,7 @@ const Header = (props) => {
         <Link to={"/Quiz-App/"}><img className="w-[3.8rem]" src={img1} alt="school logo" /></Link>
         <svg
           className="text-[2em] z-50 w-8 md:hidden absolute top-2 right-7 cursor-pointer"
-          onClick={() => setOpen(!open)}
+          onClick={() =>setOpen(!open)}
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 448 512"
           aria-label="Toggle navigation menu"
