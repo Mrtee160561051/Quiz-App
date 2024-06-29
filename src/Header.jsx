@@ -1,11 +1,12 @@
 // Header.js
 import { useState } from "react";
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import img1 from "./image/greatLil.png";
 
 const Header = (props) => {
   const [open, setOpen] = useState(false);
-  
+  const location = useLocation();
+  const [activeLink, setActiveLink] = useState(location.pathname);
   const Links = [
     { name: "Home", link: "/Quiz-App/" },
     { name: "Quiz", link: "/Quiz-App/quiz" },
@@ -13,7 +14,6 @@ const Header = (props) => {
     { name: "Services", link: "/Quiz-App/services" },
     { name: "Contact", link: "/Quiz-App/contact" }
   ];
-
   return (
     <header className="bg-white py-1 sticky top-0 z-50">
       <nav className="flex items-center justify-between w-[92%] mx-auto">
@@ -42,7 +42,7 @@ const Header = (props) => {
           >
             {Links.map((link) => (
               <li key={link.name}>
-                <Link className="hover:text-slate-500" to={link.link} onClick={() =>{setOpen(false);props.handleCancel()}}>
+                <Link className={`hover:text-slate-500  ${activeLink === link.link && "text-slate-500"}`} to={link.link} onClick={() =>{setOpen(false);props.handleCancel()}}>
                   {link.name}
                 </Link>
               </li>

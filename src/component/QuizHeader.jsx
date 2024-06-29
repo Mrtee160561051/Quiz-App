@@ -27,7 +27,7 @@ const QuizHeader = ({ name, Class, showScore, setShowScore }) => {
           </div>
           <button
             type="button"
-            onClick={() =>{setShowScore(true); showScore && navigate("/Quiz-App")}}
+            onClick={() =>{setShowScore(true); showScore && navigate("/Quiz-App/")}}
             className="pl-[2%] rounded-lg hover:text-[gray]"
           >
             <svg

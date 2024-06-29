@@ -116,7 +116,6 @@ function QuizSite({ name, Class }) {
     const secs = seconds % 60;
     return `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
   };
-  console.log(studentScore)
   return (
     <>
       <form className='min-h-[80vh]' onSubmit={handleFormSubmit}>
