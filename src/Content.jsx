@@ -10,7 +10,7 @@ const Content = (props)=>{
       {value:"year 3",label:"year 3",id:4,disabled:false},
       {value:"year 4",label:"year 4",id:5,disabled:false},
       {value:"year 5",label:"year 5",id:6,disabled:false},
-      {value:"Jss 1",label:"Jss 1",id:7,disabled:false}
+      {value:"Nur 1",label:"Nur 1",id:7,disabled:false}
     ]
     
     const handleSubmit =(e)=>{
@@ -18,7 +18,7 @@ const Content = (props)=>{
          if(Class==="None"){
           alert("Add your class")
          }else{
-         navigate("/Quiz-App/quizSite", { state: { name, Class } });
+          navigate("/Quiz-App/quizSite", { state: { name, Class } });
          }
     }
     

@@ -1,144 +1,125 @@
-{
-  "year1Ques": [
-    {
-      "id": 1,
-      "question": "Computer is _____ device",
-      "image": "",
-      "options": ["a manual", "an electronic", "a dangerous", "an internal", "a dirty"],
-      "answer": "an electronic"
-    },
-    {
-      "id": 2,
-      "question": "The part of the computer that shows what is being typed into the computer is the _____",
-      "image": "",
-      "options": ["keyboard", "mouse", "speaker", "system unit", "monitor"],
-      "answer": "monitor"
-    },
-    {
-      "id": 3,
-      "question": "The numerical keys on the keyboard are from _____",
-      "image": "",
-      "options": ["1-10", "1-9", "0-10", "0-9", "1-20"],
-      "answer": "0-9"
-    },
-    {
-      "id": 4,
-      "question": "The part of a computer that looks like a rat is ______",
-      "image": "",
-      "options": ["speaker", "mouse", "system unit", "keyboard", "monitor"],
-      "answer": "mouse"
-    },
-    {
-      "id": 5,
-      "question": "The monitor looks like a _____",
-      "image": "",
-      "options": ["chair", "goat", "television", "pot", "door"],
-      "answer": "television"
-    },
-    {
-      "id": 6,
-      "question": "The horizontal bar on the monitor’s screen is called _____",
-      "image": "",
-      "options": ["toolbar", "task bar", "work bar", "home bar", "best bar"],
-      "answer": "task bar"
-    },
-    {
-      "id": 7,
-      "question": "______ is used to enter symbols or characters into the computer",
-      "image": "",
-      "options": ["mouse", "monitor", "keyboard", "system unit", "speaker"],
-      "answer": "keyboard"
-    },
-    {
-      "id": 8,
-      "question": "All these are common ICT devices except _____",
-      "image": "",
-      "options": ["pager", "GSM", "digital wristwatch", "counting jotter", "fax machine"],
-      "answer": "counting jotter"
-    },
-    {
-      "id": 9,
-      "question": "Before you can read a message on a fax machine, it has to be ____",
-      "image": "",
-      "options": ["printed out", "coloured", "borrowed", "shouted", "written"],
-      "answer": "printed out"
-    },
-    {
-      "id": 10,
-      "question": "The telephone on the fax machine is used to send _____",
-      "image": "",
-      "options": ["video messages", "voice", "friendly messages", "loud messages", "short messages"],
-      "answer": "voice"
-    },
-    {
-      "id": 11,
-      "question": "An organiser is made of _____",
-      "image": "",
-      "options": ["plastic", "wood", "rubber", "metal", "paper"],
-      "answer": "metal"
-    },
-    {
-      "id": 12,
-      "question": "Most ICT devices have _____",
-      "image": "",
-      "options": ["handle", "screen", "legs", "sound", "odour"],
-      "answer": "screen"
-    },
-    {
-      "id": 13,
-      "question": "The number keys on the keyboard are called ____ keys",
-      "image": "",
-      "options": ["letter", "numeric", "good", "alphabetical", "note"],
-      "answer": "numeric"
-    },
-    {
-      "id": 14,
-      "question": "Computer can be used for all these except ____",
-      "image": "",
-      "options": ["chatting with friends", "for storing information", "for calculation", "for watching videos", "disposing refuse"],
-      "answer": "disposing refuse"
-    },
-    {
-      "id": 15,
-      "question": "_____ is a small ICT device used for calculation",
-      "image": "",
-      "options": ["pager", "digital wristwatch", "calculator", "GSM", "organiser"],
-      "answer": "calculator"
-    },
-    {
-      "id": 16,
-      "question": "The small card in GSM used for storing numbers is called _____ card",
-      "image": "",
-      "options": ["number", "sim", "mis", "ism", "closed"],
-      "answer": "sim"
-    },
-    {
-      "id": 17,
-      "question": "_____ is an ICT device usually worn on the wrist",
-      "image": "",
-      "options": ["GSM", "digital wristwatch", "wrist fax machine", "wrist pager", "wrist calculator"],
-      "answer": "digital wristwatch"
-    },
-    {
-      "id": 18,
-      "question": "A calculator cannot be used to ______",
-      "image": "",
-      "options": ["add", "multiply", "snap pictures", "divide", "subtract"],
-      "answer": "snap pictures"
-    },
-    {
-      "id": 19,
-      "question": "The type of GSM that can fit in the hand is called ____",
-      "image": "",
-      "options": ["fit hand", "table hand", "handheld", "hand GSM", "table GSM"],
-      "answer": "handheld"
-    },
-    {
-      "id": 20,
-      "question": "There are _____ types of printer",
-      "image": "",
-      "options": ["1", "2", "3", "4", "5"],
-      "answer": "2"
-    }
-  ]
-}
+  {
+    "year1Ques": [
+      {
+        "id": 1,
+        "question": "____________ is the type of clock display numerical digit.",
+        "options": ["Digital clock", "Analog clock", "Wristwatch"],
+        "answer": "Digital clock"
+      },
+      {
+        "id": 2,
+        "question": "_______ supply power into the digital wrist watch.",
+        "options": ["Battery", "Water", "Milk"],
+        "answer": "Battery"
+      },
+      {
+        "id": 3,
+        "question": "_________ monitor shows colours.",
+        "options": ["Colour Monitor", "Monochrome monitor", "None of the above"],
+        "answer": "Colour Monitor"
+      },
+      {
+        "id": 4,
+        "question": "_________ is a small device that perform arithmetic operation on number.",
+        "options": ["Stopwatch", "Calculator", "Home"],
+        "answer": "Calculator"
+      },
+      {
+        "id": 5,
+        "question": "________ is needed before you can start making, receiving calls and message with your mobile phone.",
+        "options": ["Sim", "Video", "Films"],
+        "answer": "Sim"
+      },
+      {
+        "id": 6,
+        "question": "Which is not an ICT device.",
+        "options": ["Pencil", "GSM phone", "Digital wristwatch"],
+        "answer": "Pencil"
+      },
+      {
+        "id": 7,
+        "question": "The mouse has how many button?",
+        "options": ["Two", "Four", "Five"],
+        "answer": "Two"
+      },
+      {
+        "id": 8,
+        "question": "A computer makes work_______ .",
+        "options": ["Easy and Faster", "Stronger", "Sharper"],
+        "answer": "Easy and Faster"
+      },
+      {
+        "id": 9,
+        "question": "Digital wristwatch shows time as _______________.",
+        "options": ["Letters", "Numbers", "Words"],
+        "answer": "Numbers"
+      },
+      {
+        "id": 10,
+        "question": "Addition and subtraction of digits can be done using _______________.",
+        "options": ["Calculators", "Water", "Paper"],
+        "answer": "Calculators"
+      },
+      {
+        "id": 11,
+        "question": "__________ is a wireless handheld device used for making and receiving calls and text messages.",
+        "options": ["Mobile phones", "Cars", "Televisions"],
+        "answer": "Mobile phones"
+      },
+      {
+        "id": 12,
+        "question": "_______ is used for typing.",
+        "options": ["Keyboard", "Mouse", "Monitor"],
+        "answer": "Keyboard"
+      },
+      {
+        "id": 13,
+        "question": "Computer is used for ________ in the hospital.",
+        "options": ["Scanning", "Counting", "Singing"],
+        "answer": "Scanning"
+      },
+      {
+        "id": 14,
+        "question": "What looks like a television? ______",
+        "options": ["Keyboard", "Monitor", "Mouse"],
+        "answer": "Monitor"
+      },
+      {
+        "id": 15,
+        "question": "______ is used to type a letter.",
+        "options": ["Mouse", "Keyboard", "UPS"],
+        "answer": "Keyboard"
+      },
+      {
+        "id": 16,
+        "question": "______ can be used to play computer game.",
+        "options": ["Leg", "UPS", "Joystick"],
+        "answer": "Joystick"
+      },
+      {
+        "id": 17,
+        "question": "It is a MUST to have a UPS to help protect your computer.",
+        "options": ["True", "False"],
+        "answer": "True"
+      },
+      {
+        "id": 18,
+        "question": "_______ is an electronic machine that accepts data.",
+        "options": ["Computer", "Keyboard", "Machine"],
+        "answer": "Computer"
+      },
+      {
+        "id": 19,
+        "question": "A digital wristwatch works like a computer.",
+        "options": ["True", "False"],
+        "answer": "True"
+      },
+      {
+        "id": 20,
+        "question": "Calculator is a common ICT device.",
+        "options": ["True", "False"],
+        "answer": "True"
+      }
+    ]
+  }
+  

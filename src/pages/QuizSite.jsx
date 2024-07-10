@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import QuizHeader from '../component/QuizHeader';
-import jss1Ques from '../questions/jss1Ques.json';
+import Nur1Ques from '../questions/Nur1Ques.json';
 import year1Ques from '../questions/year1Ques.json';
 import year2Ques from '../questions/year2Ques.json';
 import year3Ques from '../questions/year3Ques.json';
@@ -14,7 +14,7 @@ function QuizSite({ name, Class }) {
     "year 3": year3Ques['year3Ques'],
     "year 4": year4Ques['year4Ques'],
     "year 5": year5Ques['year5Ques'],
-    "Jss 1": jss1Ques['jss1Ques']
+    "Nur 1": Nur1Ques['Nur1Ques']
   };
 
   

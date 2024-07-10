@@ -2,123 +2,123 @@
   "year2Ques": [
     {
       "id": 1,
-      "question": "We can do all these things with the computer EXCEPT",
-      "options": ["washing", "browsing", "playing games", "sending messages"],
-      "answer": "washing"
+      "question": "Where can we find the motherboard in a computer?",
+      "options": ["Monitor", "Mouse", "System"],
+      "answer": "System"
     },
     {
       "id": 2,
-      "question": "___is known as the brain box of the computer",
-      "options": ["monitor", "CPU", "keyboard", "mouse"],
-      "answer": "CPU"
+      "question": "The CPU has ______ parts",
+      "options": ["4", "3", "6"],
+      "answer": "3"
     },
     {
       "id": 3,
-      "question": "Which of these is a way of caring for the computer",
-      "options": ["expose it to dust", "keep it in a hot room", "if it stops working, call a computer engineer", "pour water on it"],
-      "answer": "if it stops working, call a computer engineer"
+      "question": "________ connects all the different parts of the computer together.",
+      "options": ["Keyboard", "Mouse", "Motherboard"],
+      "answer": "Motherboard"
     },
     {
       "id": 4,
-      "question": "The ____is an output device, it is an electronic device that looks like a television",
-      "options": ["mouse", "CPU", "printer", "monitor"],
-      "answer": "monitor"
+      "question": "The _____________ is the heart & brain of the computer.",
+      "options": ["Printer", "CPU", "System"],
+      "answer": "CPU"
     },
     {
       "id": 5,
-      "question": "__is flat and has the shape of a rectangle",
-      "options": ["mouse", "keyboard", "cable", "software"],
-      "answer": "keyboard"
+      "question": "ALU means: _______________",
+      "options": ["Art logic unit", "Arithmetic logic unit", "Arithmetic lock unit"],
+      "answer": "Arithmetic logic unit"
     },
     {
       "id": 6,
-      "question": "What part of the computer is used for pointing and selecting objects on the computer?",
-      "options": ["keyboard", "speaker", "printer", "mouse"],
-      "answer": "mouse"
+      "question": "ROM means _____________",
+      "options": ["Read on memory", "Read only memory", "Read only method"],
+      "answer": "Read only memory"
     },
     {
       "id": 7,
-      "question": "What device makes noise while typing?",
-      "options": ["typewriter", "monitor", "CPU", "printer"],
-      "answer": "typewriter"
+      "question": "The _______ is the device that reads & writes information that is on a computer.",
+      "options": ["Disk", "Drive", "Disk drive"],
+      "answer": "Disk drive"
     },
     {
       "id": 8,
-      "question": "The part of a computer system that prints work on paper is called",
-      "options": ["mouse", "monitor", "printer", "buttons"],
-      "answer": "printer"
+      "question": "The _________ is the box that contains all the electronic components of a system.",
+      "options": ["Data", "Disk", "System unit"],
+      "answer": "System unit"
     },
     {
       "id": 9,
-      "question": "In computing, UPS means",
-      "options": ["undefeated personal service", "uninterrupted power supply", "unshakable power system", "unimportant power supply"],
-      "answer": "uninterrupted power supply"
+      "question": "Printers of the different parts",
+      "options": ["False", "True"],
+      "answer": "False"
     },
     {
       "id": 10,
-      "question": "In computing, the trash also has other names like __&__",
-      "options": ["dustbin & recycle bin", "power & paper", "light & laser", "all of the above"],
-      "answer": "dustbin & recycle bin"
+      "question": "DVD means",
+      "options": ["Digital video distance", "Disk video disc", "Digital video disc"],
+      "answer": "Digital video disc"
     },
     {
       "id": 11,
-      "question": "__is a machine which quickly copies documents onto papers by photographing them",
-      "options": ["photocopier", "monitor", "mouse", "machine"],
-      "answer": "photocopier"
+      "question": "There are _____ types of system unit casing.",
+      "options": ["4", "2", "6"],
+      "answer": "2"
     },
     {
       "id": 12,
-      "question": "Which of these is not a part of an extension box",
-      "options": ["photocopier", "switchers", "sockets", "extension cord"],
-      "answer": "photocopier"
+      "question": "CPU means",
+      "options": ["Central Production Unit", "Centre Processing Unit", "Central Processing Unit"],
+      "answer": "Central Processing Unit"
     },
     {
       "id": 13,
-      "question": "____is the action performed by an air conditioner",
-      "options": ["printing", "photocopying", "typing", "air conditioning"],
-      "answer": "air conditioning"
+      "question": "Computer is an",
+      "options": ["electrical device", "electronic device", "machine device"],
+      "answer": "electronic device"
     },
     {
       "id": 14,
-      "question": "___invented the air conditioner",
-      "options": ["Carl Benz", "Charles Babbage", "Willis Carrier", "Abraham Lincoln"],
-      "answer": "Willis Carrier"
+      "question": "The CPU is divided into ___ parts.",
+      "options": ["3", "2", "6"],
+      "answer": "2"
     },
     {
       "id": 15,
-      "question": "An electronic device that accepts data, processes data and brings it out as information is called",
-      "options": ["sound machine", "computer", "mouse", "photography"],
-      "answer": "computer"
+      "question": "Projectors can be used in the schools, offices & churches.",
+      "options": ["True", "False"],
+      "answer": "True"
     },
     {
       "id": 16,
-      "question": "One of these is not an ICT device",
-      "options": ["laptops", "computer", "smartphones", "water bottle"],
-      "answer": "water bottle"
+      "question": "RAM means :",
+      "options": ["Read Access Memo", "Read Access Monitor", "Read Access Memory"],
+      "answer": "Read Access Memory"
     },
     {
       "id": 17,
-      "question": "We can care for ICT devices by",
-      "options": ["avoid placing heavy objects on top of computers and other devices", "mishandling the devices", "washing them with soap and water", "heating them up"],
-      "answer": "avoid placing heavy objects on top of computers and other devices"
+      "question": "________ saves information",
+      "options": ["Printer", "Motherboard", "Computer"],
+      "answer": "Computer"
     },
     {
       "id": 18,
-      "question": "Which of the following is a part of a smartphone?",
-      "options": ["keypad", "speaker", "battery", "all of the above"],
-      "answer": "all of the above"
+      "question": "Where can we find the motherboard in a computer?",
+      "options": ["Monitor", "System unit", "Printer"],
+      "answer": "System unit"
     },
     {
       "id": 19,
-      "question": "What is the full meaning of ICT?",
-      "options": ["international connection technical", "information and communication technology", "independence country campaign", "none of the above"],
-      "answer": "information and communication technology"
+      "question": "The computer makes our works faster and easier.",
+      "options": ["True", "False"],
+      "answer": "True"
     },
     {
       "id": 20,
-      "question": "___ is a machine or device for cutting or trimming sheets of paper to required dimensions.",
-      "options": ["paper cutter", "computer", "typewriter", "pumping machine"],
-      "answer": "paper cutter"
+      "question": "Printers bring out different colours in printing.",
+      "options": ["True", "False"],
+      "answer": "True"
     }
   ]
 }

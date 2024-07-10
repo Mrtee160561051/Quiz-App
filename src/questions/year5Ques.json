@@ -1,447 +1,364 @@
 {
   "year5Ques": [
-        {
-          "id": 1,
-          "question": "What is a computer?",
-          "options": [
-            "device that transforms data into information.",
-            "Input processor",
-            "Electronic devices",
-            "All of these"
-          ],
-          "answer": "All of these"
-        },
-        {
-          "id": 2,
-          "question": "On the basis of data handling capabilities, which of these are valid types of computers?",
-          "options": [
-            "Analogue computer.",
-            "Digital computer.",
-            "Hybrid computer",
-            "All of these"
-          ],
-          "answer": "All of these"
-        },
-        {
-          "id": 3,
-          "question": "Based on the size of the computer, how many types of computers are present?",
-          "options": [
-            "7.",
-            "5.",
-            "3.",
-            "4"
-          ],
-          "answer": "5."
-        },
-        {
-          "id": 4,
-          "question": "An analog computer operates on which type of data?",
-          "options": [
-            "Text Files.",
-            "Analog data.",
-            "Digital Data",
-            "None of these"
-          ],
-          "answer": "Analog data."
-        },
-        {
-          "id": 5,
-          "question": "Which type of computer can handle analog as well as digital data?",
-          "options": [
-            "Digital.",
-            "Analog.",
-            "Hybrid.",
-            "All of these"
-          ],
-          "answer": "Hybrid."
-        },
-        {
-          "id": 6,
-          "question": "Which computer works on data in 0's and 1's?",
-          "options": [
-            "Digital computer.",
-            "Hybrid computer.",
-            "Physical computer.",
-            "Analog computer"
-          ],
-          "answer": "Digital computer."
-        },
-        {
-          "id": 7,
-          "question": "Which of these is not a type of computer?",
-          "options": [
-            "PC.",
-            "Workstation.",
-            "Logical computer.",
-            "Supercomputer"
-          ],
-          "answer": "Logical computer."
-        },
-        {
-          "id": 8,
-          "question": "Which of these statements are TRUE about a supercomputer?",
-          "options": [
-            "It is used for scientific research.",
-            "It has a very high computation speed.",
-            "It is very expensive.",
-            "All of these"
-          ],
-          "answer": "All of these"
-        },
-        {
-          "id": 9,
-          "question": "The first super computer was created in?",
-          "options": [
-            "1954.",
-            "1976.",
-            "1796.",
-            "1989"
-          ],
-          "answer": "1976."
-        },
-        {
-          "id": 10,
-          "question": "What is the name given to huge computers with large computation speeds?",
-          "options": [
-            "Workstation computer.",
-            "Server computer.",
-            "Supercomputer.",
-            "None of these"
-          ],
-          "answer": "Supercomputer."
-        },
-        {
-          "id": 11,
-          "question": "Mainframe computers can handle hundreds or thousands of users simultaneously. TRUE or FALSE?",
-          "options": [
-            "True",
-            "False",
-            "None of the above",
-            "All the above"
-          ],
-          "answer": "True"
-        },
-        {
-          "id": 12,
-          "question": "Which of these does not support multiple users at the same time?",
-          "options": [
-            "Mainframe computer",
-            "Workstation computer.",
-            "Minicomputer",
-            "None of these"
-          ],
-          "answer": "Workstation computer."
-        },
-        {
-          "id": 13,
-          "question": "Mainframe computers are used in which of these sectors?",
-          "options": [
-            "Banking.",
-            "Government.",
-            "Health.",
-            "All of these"
-          ],
-          "answer": "All of these"
-        },
-        {
-          "id": 14,
-          "question": "Weather forecasting can be done using ___.",
-          "options": [
-            "PC.",
-            "Mega computer.",
-            "Supercomputer.",
-            "All of these"
-          ],
-          "answer": "Supercomputer."
-        },
-        {
-          "id": 15,
-          "question": "Which of these are powered by microprocessors?",
-          "options": [
-            "Microcomputer.",
-            "Supercomputer.",
-            "Mainframe computer.",
-            "All of these"
-          ],
-          "answer": "Microcomputer."
-        },
-        {
-          "id": 16,
-          "question": "PDA's stand for?",
-          "options": [
-            "Professional Development application.",
-            "Personal Designing Assistants",
-            "Personal Digital Assistants.",
-            "Personal Digital Application"
-          ],
-          "answer": "Personal Digital Assistants."
-        },
-        {
-          "id": 17,
-          "question": "Which of these is a feature of the minicomputer?",
-          "options": [
-            "Support multiple users.",
-            "It has low weight.",
-            "It can be carried anywhere",
-            "All of these"
-          ],
-          "answer": "All of these"
-        },
-        {
-          "id": 18,
-          "question": "Which of these is a single user computer with huge RAM and added graphics?",
-          "options": [
-            "Supercomputer.",
-            "Workstation.",
-            "PC.",
-            "All of these"
-          ],
-          "answer": "Workstation."
-        },
-        {
-          "id": 19,
-          "question": "A workstation can be used in which of these fields?",
-          "options": [
-            "Data analysis.",
-            "Edition.",
-            "CAD.",
-            "All of these"
-          ],
-          "answer": "CAD."
-        },
-        {
-          "id": 20,
-          "question": "Which of these computers can be easily used for individual use?",
-          "options": [
-            "Supercomputer.",
-            "Personal computer.",
-            "Workstation.",
-            "None of these"
-          ],
-          "answer": "Personal computer."
-        },
-        {
-          "id": 21,
-          "question": "Laptop that we used is a type of which of these categories?",
-          "options": [
-            "Microcomputer.",
-            "Workstation.",
-            "Personal Computer.",
-            "All of these"
-          ],
-          "answer": "Personal Computer."
-        },
-        {
-          "id": 22,
-          "question": "What does a PC stand for?",
-          "options": [
-            "Professional computer",
-            "Process computation.",
-            "Personal computer.",
-            "None of these"
-          ],
-          "answer": "Personal computer."
-        },
-        {
-          "id": 23,
-          "question": "Which of these come under the category of personal computer?",
-          "options": [
-            "Laptop.",
-            "Macbook.",
-            "College computer.",
-            "All of these"
-          ],
-          "answer": "All of these"
-        },
-        {
-          "id": 24,
-          "question": "What does CPU stand for?",
-          "options": [
-            "Calculation platform for user.",
-            "Central processing unit.",
-            "Counter processing unit.",
-            "All of these"
-          ],
-          "answer": "Central processing unit."
-        },
-        {
-          "id": 25,
-          "question": "These are items on the computer system except ___________",
-          "options": [
-            "Speaker",
-            "Menu-bar",
-            "Cord",
-            "Case."
-          ],
-          "answer": "Menu-bar"
-        },
-        {
-          "id": 26,
-          "question": "___________ is an example of an output device.",
-          "options": [
-            "Monitor",
-            "Keyboard",
-            "Mouse",
-            "Band."
-          ],
-          "answer": "Monitor"
-        },
-        {
-          "id": 27,
-          "question": "Printer is an _________ device.",
-          "options": [
-            "Input",
-            "Active",
-            "Action",
-            "Output"
-          ],
-          "answer": "Output"
-        },
-        {
-          "id": 28,
-          "question": "These are storage devices except __________",
-          "options": [
-            "Flash drive",
-            "CD",
-            "Joystick",
-            "Hard drive."
-          ],
-          "answer": "Joystick"
-        },
-        {
-          "id": 29,
-          "question": "Keyboard is an _________ device.",
-          "options": [
-            "Output",
-            "Input",
-            "Expensive",
-            "Expensive."
-          ],
-          "answer": "Input"
-        },
-        {
-          "id": 30,
-          "question": "_________ Keyboard is a type of keyboard.",
-          "options": [
-            "Multimedia",
-            "QWERY",
-            "Wireless",
-            "Action."
-          ],
-          "answer": "Wireless"
-        },
-        {
-          "id": 31,
-          "question": "Arrow keys consist of the following except.",
-          "options": [
-            "Upward arrow",
-            "downward arrow",
-            "left and right arrow",
-            "Centre arrow."
-          ],
-          "answer": "Centre arrow"
-        },
-        {
-          "id": 32,
-          "question": "___________ is the application used for accessing and viewing web",
-          "options": [
-            "Browser",
-            "Computer",
-            "USB",
-            "Hardware."
-          ],
-          "answer": "Browser"
-        },
-        {
-          "id": 33,
-          "question": "These are types of web browser except ______________",
-          "options": [
-            "Mozilla",
-            "Google Chrome",
-            "Internet explorer",
-            "Corel Draw."
-          ],
-          "answer": "Corel Draw"
-        },
-        {
-          "id": 34,
-          "question": "__________ is used for making excel sheets.",
-          "options": [
-            "Corel Draw",
-            "MS Excel",
-            "MS Word",
-            "Adobe Photoshop."
-          ],
-          "answer": "MS Excel"
-        },
-        {
-          "id": 35,
-          "question": "Computer software can be classified into __________ categories.",
-          "options": [
-            "3",
-            "2",
-            "1",
-            "4."
-          ],
-          "answer": "2"
-        },
-        {
-          "id": 36,
-          "question": "Which of these is not an example of an application software?",
-          "options": [
-            "Adobe photoshop",
-            "MS PowerPoint",
-            "Windows 10",
-            "Corel Draw."
-          ],
-          "answer": "Windows 10"
-        },
-        {
-          "id": 37,
-          "question": "Which of these is not an example of operating system?",
-          "options": [
-            "Windows XP",
-            "Linux",
-            "MAC",
-            "Google."
-          ],
-          "answer": "Google"
-        },
-        {
-          "id": 38,
-          "question": "Which of these is an example of system software?",
-          "options": [
-            "MS PowerPoint",
-            "MS Word",
-            "Window 7",
-            "Corel Draw."
-          ],
-          "answer": "Window 7"
-        },
-        {
-          "id": 39,
-          "question": "Windows is an ___________ of a computer.",
-          "options": [
-            "Operating system",
-            "Input device",
-            "Hardware",
-            "All of these"
-          ],
-          "answer": "Operating system"
-        },
-        {
-          "id": 40,
-          "question": "Example of application software used for typing is __________",
-          "options": [
-            "Corel draw",
-            "MS Word",
-            "Adobe Photoshop",
-            "Windows 7."
-          ],
-          "answer": "MS Word"
+    {
+      "id": 1,
+      "question": "A mouse can do the following except _____.",
+      "options": ["double click", "save information inside the mouse", "left and right click", "drag or move object from one place to another"],
+      "answer": "save information inside the mouse"
+    },
+    {
+      "id": 2,
+      "question": "Laptop, desktop, notebook, and pocket size computers are examples of _____.",
+      "options": ["super computers", "mainframe computers", "omega computers", "micro or personal computers"],
+      "answer": "micro or personal computers"
+    },
+    {
+      "id": 3,
+      "question": "One of the computer cables is called _____.",
+      "options": ["battery cable", "power cable", "power socket", "power switch"],
+      "answer": "power cable"
+    },
+    {
+      "id": 4,
+      "question": "These are electronics devices except a _______.",
+      "options": ["television set", "cupboard", "radio", "computer"],
+      "answer": "cupboard"
+    },
+    {
+      "id": 5,
+      "question": "One of these cannot be used to solve arithmetic problems:",
+      "options": ["calculator", "computer", "shutters", "mobile phone"],
+      "answer": "shutters"
+    },
+    {
+      "id": 6,
+      "question": "After processing, a computer result is the _____.",
+      "options": ["output", "input", "control unit", "copies"],
+      "answer": "output"
+    },
+    {
+      "id": 7,
+      "question": "_____ is the founder of Microsoft.",
+      "options": ["Professor Wole Soyinka", "Bill Graham", "William Henry", "Bill Gates"],
+      "answer": "Bill Gates"
+    },
+    {
+      "id": 8,
+      "question": "To insert spaces between words while typing we use _______.",
+      "options": ["Caps lock key", "space bar", "back space key", "shift key"],
+      "answer": "space bar"
+    },
+    {
+      "id": 9,
+      "question": "The mouse can move smoothly because it has _____.",
+      "options": ["two small tyres", "two small chains", "a moveable ball", "a special magnet"],
+      "answer": "a moveable ball"
+    },
+    {
+      "id": 10,
+      "question": "The action of pressing the mouse to carry out a specific command is called ____. ",
+      "options": ["command tuning", "clicking", "downloading", "pointing"],
+      "answer": "clicking"
+    },
+    {
+      "id": 11,
+      "question": "The methods of booting a computer are _____.",
+      "options": ["wet, dry, and rain booting", "cold booting, and warm booting", "hot, dry, and warm booting", "wet, warm, hot, and dry booting"],
+      "answer": "cold booting, and warm booting"
+    },
+    {
+      "id": 12,
+      "question": "Information in raw or unorganized form such as alphabet, numbers or symbols that represent ideas or objects is called _____.",
+      "options": ["alphanumeric", "output", "data", "input"],
+      "answer": "data"
+    },
+    {
+      "id": 13,
+      "question": "A piece of information that can be seen and heard is called _____.",
+      "options": ["reality", "televised information", "audio", "audiovisual"],
+      "answer": "audiovisual"
+    },
+    {
+      "id": 14,
+      "question": "The term used to describe the process of closing all software programs in preparation to turn off is called _____.",
+      "options": ["computer’s power", "close up", "turn off", "shut down"],
+      "answer": "shut down"
+    },
+    {
+      "id": 15,
+      "question": "There are _____ methods in booting a computer.",
+      "options": ["5", "4", "3", "2"],
+      "answer": "2"
+    },
+    {
+      "id": 16,
+      "question": "Data that are written in letters A to Z are called _____.",
+      "options": ["alphanumeric data", "numeric data", "alphabetic data", "lettered data"],
+      "answer": "alphabetic data"
+    },
+    {
+      "id": 17,
+      "question": "______ is the arrangement of data into meaningful and useful information.",
+      "options": ["Data processing", "Information management", "Computerization", "Softwaring"],
+      "answer": "Data processing"
+    },
+    {
+      "id": 18,
+      "question": "What a computer can process is called _____.",
+      "options": ["work", "output", "application", "Input"],
+      "answer": "Input"
+    },
+    {
+      "id": 19,
+      "question": "The part of the computer which works like the human eye is called the _____.",
+      "options": ["hard disk", "monitor", "scanner", "mouse"],
+      "answer": "monitor"
+    },
+    {
+      "id": 20,
+      "question": "Which of the following describes a correct usage of computer?",
+      "options": ["Cyberbullying", "Scamming", "Spamming", "Storing information"],
+      "answer": "Storing information"
+    },
+    {
+      "id": 21,
+      "question": "______________ is a place where all deleted files and documents are kept?",
+      "options": ["recycle bin", "dustbin", "waste bin", "trash bin"],
+      "answer": "recycle bin"
+    },
+    {
+      "id": 22,
+      "question": "When the mouse button is pressed twice quickly and released, it's known as ____________.",
+      "options": ["Dragging", "Double clicking", "Clicking", "Flapping"],
+      "answer": "Double clicking"
+    },
+    {
+      "id": 23,
+      "question": "The following are software used for typing except _____________.",
+      "options": ["Word pad", "Microsoft Word", "Photoshop", "Microsoft Excel"],
+      "answer": "Photoshop"
+    },
+    {
+      "id": 24,
+      "question": "Before carrying out any command on a text, you must first ___________.",
+      "options": ["Highlight", "Drag", "Permission", "Click"],
+      "answer": "Highlight"
+    },
+    {
+      "id": 25,
+      "question": "The term O.S means _________.",
+      "options": ["Open statement", "Operating system", "Operating state", "Open Sentence"],
+      "answer": "Operating system"
+    },
+    {
+      "id": 26,
+      "question": "Development of computer from one period to another is called _______.",
+      "options": ["Computer age", "Computer generation", "Computer stage", "Computer development"],
+      "answer": "Computer generation"
+    },
+    {
+      "id": 27,
+      "question": "A computer system which supplies other remote computers with processed information is called ___________.",
+      "options": ["Client", "Server", "Processor", "Supplier"],
+      "answer": "Server"
+    },
+    {
+      "id": 28,
+      "question": "Microsoft Word is primarily used for _________.",
+      "options": ["Calculation", "Typing", "Drawing", "Painting"],
+      "answer": "Typing"
+    },
+    {
+      "id": 29,
+      "question": "When a text is moved from one document to another, it is called __________.",
+      "options": ["Copy and paste", "Cut and paste", "Delete", "Move and paste"],
+      "answer": "Cut and paste"
+    },
+    {
+      "id": 30,
+      "question": "People who write instructions for computers to solve problems are called ________.",
+      "options": ["Producer", "Programmer", "Writer", "Processor"],
+      "answer": "Programmer"
+    },
+    {
+      "id": 31,
+      "question": "A program installed in a computer for typing is called _________.",
+      "options": ["E-mail", "Data", "Word processor", "Software"],
+      "answer": "Word processor"
+    },
+    {
+      "id": 32,
+      "question": "One of these is not considered as a drawing package:",
+      "options": ["Ms-Word", "Paint Artist", "Corel draw", "Paint environment"],
+      "answer": "Ms-Word"
+    },
+    {
+      "id": 33,
+      "question": "The acronym C.P.U. means _________.",
+      "options": ["Computer Processing Unit", "Central Programming Unit", "Central Processing Unit", "Center Processing Unit"],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "id": 34,
+      "question": "A place on the internet where computer users can find necessary information is called ___________.",
+      "options": ["Software", "Web cam", "Website", "Webster"],
+      "answer": "Website"
+    },
+    {
+      "id": 35,
+      "question": "For you to write on the computer, you need a ____________.",
+      "options": ["Marker", "Joystick", "Keyboard", "Data"],
+      "answer": "Keyboard"
+    },
+    {
+      "id": 36,
+      "question": "The longest key on the keyboard is _________.",
+      "options": ["Space bar key", "Enter key", "Backspace key", "Cap lock key"],
+      "answer": "Space bar key"
+    },
+    {
+      "id": 37,
+      "question": "If Ctrl + A means select all text, then Ctrl + B means .__",
+      "options": ["Refresh the current program", "Save current document file", "Change selected text to be bold", "Print all text"],
+      "answer": "Change selected text to be bold"
+    },
+    {
+      "id": 38,
+      "question": "\"GIGO\" is a computer term that means _____________.",
+      "options": ["Go in, go out", "Get in, get out", "Garbage in, garbage out", "Barge in, barge out"],
+      "answer": "Garbage in, garbage out"
+    },
+    {
+      "id": 39,
+      "question": "Information from a computer that has been printed on paper is called ____________.",
+      "options": ["Computer print", "Soft copy", "Hard copy", "Master copy"],
+      "answer": "Hard copy"
+    },
+    {
+      "id": 40,
+      "question": "When you want to make a document, you are said to _______ a document.",
+      "options": ["Make", "Keep", "Create", "Design"],
+      "answer": "Create"
+    },
+    {
+      "id": 41,
+      "question": "Ctrl + X means _______________.",
+      "options": ["Cut selected item", "Copy selected item", "Save the current document file", "Cut and paste selected item"],
+      "answer": "Cut selected item"
+    },
+    {
+      "id": 42,
+      "question": "After using the computer, the next thing to do is_____________.",
+      "options": ["Short down", "Shut up", "Shut down", "Close down"],
+      "answer": "Shut down"
+    },
+    {
+      "id": 43,
+      "question": "What is E-mail?",
+      "options": ["Electronic mail", "Electrical mail", "Every mail", "Electronic mall"],
+      "answer": "Electronic mail"
+    },
+    {
+      "id": 44,
+      "question": "Ctrl + V means _______________.",
+      "options": ["Save", "Copy", "Paste", "Delete"],
+      "answer": "Paste"
+    },
+    {
+      "id": 45,
+      "question": "An input device that looks like the gear selector of a car used for playing a computer game is called ____________.",
+      "options": ["Light pen", "Special pen", "Joystick", "Pen pad"],
+      "answer": "Joystick"
+    },
+    {
+      "id": 46,
+      "question": "The word YEAR FIVE will be underlined if I press ___________",
+      "options": ["Ctrl + N", "Ctrl + W", "Ctrl + U", "Ctrl + P"],
+      "answer": "Ctrl + U"
+    },
+    {
+      "id": 47,
+      "question": "If a red wavy line is shown in MS word it means _____________",
+      "options": ["Spelling error", "Danger", "Correction", "Red alert"],
+      "answer": "Spelling error"
+    },
+    {
+      "id": 48,
+      "question": "Data can be defined as a __________.",
+      "options": ["raw unprocessed facts", "Processed facts", "sources of information", "manipulated information"],
+      "answer": "raw unprocessed facts"
+    },
+    {
+      "id": 49,
+      "question": "The shading of objects after drawing is to make the work look _________.",
+      "options": ["flat", "Attractive", "Beautiful", "Colourful"],
+      "answer": "Attractive"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following can be called the brain of computer?",
+      "options": ["ROM", "CPU", "RAM", "UPS"],
+      "answer": "CPU"
+    },
+    {
+      "id": 51,
+      "question": "What does ‘F’ means on the F1, F2, F3, etc., in the computer keyboard?",
+      "options": ["Format", "Function", "File", "Find"],
+      "answer": "Function"
+    },
+    {
+      "id": 52,
+      "question": "Which is not a computer Input device?",
+      "options": ["Web camera", "Printer", "Keyboard", "Mouse"],
+      "answer": "Printer"
+    },
+    {
+      "id": 53,
+      "question": "Choose the two kinds of storage devices used by a computer.",
+      "options": ["Flash drive and Hard drive", "Motherboard and Monitor", "Scanner and Keyboard", "Speaker and Microphone"],
+      "answer": "Flash drive and Hard drive"
+    },
+    {
+      "id": 54,
+      "question": "A computer language used for programming is:",
+      "options": ["English Language", "French", "Java", "Windows"],
+      "answer": "Java"
+    },
+    {
+      "id": 55,
+      "question": "What is the physical part of a computer called?",
+      "options": ["System unit", "Program", "Hardware", "Software"],
+      "answer": "Hardware"
+    },
+    {
+      "id": 56,
+      "question": "Base 2 is called _____.",
+      "options": ["binary", "denary", "octave", "basic base"],
+      "answer": "binary"
+    },
+    {
+      "id": 57,
+      "question": "avaacademy@yahoo.com is a/an ______.",
+      "options": ["Official address", "Email address", "Computer address", "Website address"],
+      "answer": "Email address"
+    },
+    {
+      "id": 58,
+      "question": "One of these is not a characteristic of a computer system?",
+      "options": ["Speed", "Accuracy", "Consistency", "Problematic"],
+      "answer": "Problematic"
+    },
+    {
+      "id": 59,
+      "question": "An example of a removable storage device is _____.",
+      "options": ["system unit", "visual display unit", "flash drive", "motherboard"],
+      "answer": "flash drive"
+    },
+    {
+      "id": 60,
+      "question": "The computer and robots imitate man through their _____.",
+      "options": ["natural intelligence", "superior intelligence", "advanced intelligence", "artificial intelligence"],
+      "answer": "artificial intelligence"
     }
-    
   ]
 }
-
-  

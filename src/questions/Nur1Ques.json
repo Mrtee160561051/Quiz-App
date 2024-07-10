@@ -1,0 +1,94 @@
+{
+  "Nur1Ques": [
+    {
+      "id": 1,
+      "question": "__________ shows what we type into the computer.",
+      "options": ["mouse", "monitor", "keyboard"],
+      "answer": "monitor"
+    },
+    {
+      "id": 2,
+      "question": "Computer is used to perform x-ray in the __________.",
+      "options": ["bank", "hospital", "supermarket"],
+      "answer": "hospital"
+    },
+    {
+      "id": 3,
+      "question": "We can use our phones to play games too (true or false)?",
+      "options": ["true", "false"],
+      "answer": "true"
+    },
+    {
+      "id": 4,
+      "question": "We use the computer to make timetables in the __________.",
+      "options": ["school", "playground", "garden"],
+      "answer": "school"
+    },
+    {
+      "id": 5,
+      "question": "One of these is a Nigerian network provider.",
+      "options": ["MTN", "CNN", "AIT"],
+      "answer": "MTN"
+    },
+    {
+      "id": 6,
+      "question": "__________ is a type of clock that displays the time in numeral digits.",
+      "options": ["digital camera", "digital wristwatch", "calculator"],
+      "answer": "digital wristwatch"
+    },
+    {
+      "id": 7,
+      "question": "Where can we see electronic billboards?",
+      "options": ["in our houses", "in the church", "on the streets"],
+      "answer": "on the streets"
+    },
+    {
+      "id": 8,
+      "question": "__________ is a device used for making calls.",
+      "options": ["mobile phone", "mobile pot", "television"],
+      "answer": "mobile phone"
+    },
+    {
+      "id": 9,
+      "question": "A __________ is needed before you can start making calls on your mobile phone.",
+      "options": ["SME", "SIM card", "SRE"],
+      "answer": "SIM card"
+    },
+    {
+      "id": 10,
+      "question": "ICT devices make use of __________.",
+      "options": ["fire", "electricity", "sunlight"],
+      "answer": "electricity"
+    },
+    {
+      "id": 11,
+      "question": "__________ is an ICT device used to perform arithmetic operations on numbers.",
+      "options": ["calculator", "booklet", "wristwatch"],
+      "answer": "calculator"
+    },
+    {
+      "id": 12,
+      "question": "We can use a mobile phone to browse the internet (true or false)?",
+      "options": ["true", "false"],
+      "answer": "true"
+    },
+    {
+      "id": 13,
+      "question": "Computers are used for providing __________ of goods in the supermarket.",
+      "options": ["story", "prices", "history"],
+      "answer": "prices"
+    },
+    {
+      "id": 14,
+      "question": "Computers are used for sending and receiving messages known as __________.",
+      "options": ["S-mail", "d-mail", "e-mail"],
+      "answer": "e-mail"
+    },
+    {
+      "id": 15,
+      "question": "Billboard is a common ICT device. (True/False)",
+      "options": ["true", "false"],
+      "answer": "false"
+    }
+  ]
+}

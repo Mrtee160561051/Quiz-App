@@ -1,11 +1,11 @@
-import img1 from "../image/greatLil.png";
+import img1 from "../image/Ava.jpg";
 import { Link, useNavigate } from 'react-router-dom';
 const QuizHeader = ({ name, Class, showScore, setShowScore }) => {
    const navigate = useNavigate()
   return (
     <header className="bg-white py-1 sticky top-0 z-50 flex">
       <nav className="flex items-center justify-between w-[92%] mx-auto">
-      <Link to={"/Quiz-App/"}><img className="w-[3.8rem]" src={img1} alt="school logo" /></Link>
+      <img className="w-[3.8rem]" src={img1} alt="school logo" />
         <div className="flex text-4xl pt-1">
           <div className="flex justify-between">
             <svg

@@ -2,126 +2,123 @@
   "year4Ques": [
     {
       "id": 1,
-      "question": "The following are advantages of using computers in education Except for ________",
-      "options": ["research and information", "playing outside", "educational games and programs", "virtual classes"],
-      "answer": "playing outside"
+      "question": "--------------------------- is the process of starting a computer and loading the operating system.",
+      "options": ["switching", "booting", "joining"],
+      "answer": "booting"
     },
     {
       "id": 2,
-      "question": "How can computers help you stay in touch with friends and family?",
-      "options": ["By sending letters through the mail", "By allowing you to send emails and messages", "By reading books", "By riding a bike"],
-      "answer": "By allowing you to send emails and messages"
+      "question": "What we feed into a computer is called -------------------.",
+      "options": ["food", "data", "information"],
+      "answer": "data"
     },
     {
       "id": 3,
-      "question": "What kind of programs on computers can help you express your creativity?",
-      "options": ["Word processors and spreadsheets", "Drawing and designing programs", "Weather forecast applications", "Online banking tools"],
-      "answer": "Drawing and designing programs"
+      "question": "The work a computer hardware can do is dependent on -----------------.",
+      "options": ["software", "computer system", "storage"],
+      "answer": "software"
     },
     {
       "id": 4,
-      "question": "What is one way computers help with organization and efficiency?",
-      "options": ["By providing faster internet speed", "By keeping track of homework and schedules", "By helping you run faster", "By making you taller"],
-      "answer": "By keeping track of homework and schedules"
+      "question": "Information produced on a paper by a printer is called ------------- copy information.",
+      "options": ["hard", "soft", "cool"],
+      "answer": "hard"
     },
     {
       "id": 5,
-      "question": "What is the main purpose of computer cables?",
-      "options": ["To decorate the computer", "To connect computers to other devices and transfer data", "To make computers run faster", "To clean the computer"],
-      "answer": "To connect computers to other devices and transfer data"
+      "question": "To restart a computer without switching it off is known as ---------------.",
+      "options": ["warm booting", "cold booting", "soft booting"],
+      "answer": "warm booting"
     },
     {
       "id": 6,
-      "question": "Which cable supplies electricity to your computer?",
-      "options": ["USB cable", "HDMI cable", "Power cable", "Ethernet cable"],
-      "answer": "Power cable"
+      "question": "Monitor, Printer, and Speaker are -------------- devices.",
+      "options": ["input", "output", "storage"],
+      "answer": "output"
     },
     {
       "id": 7,
-      "question": "What type of cable would you use to connect an old monitor to a computer?",
-      "options": ["HDMI cable", "USB cable", "VGA cable", "SATA cable"],
-      "answer": "VGA cable"
+      "question": "The system unit is an example of computer --------------------.",
+      "options": ["software", "hardware", "storage"],
+      "answer": "hardware"
     },
     {
       "id": 8,
-      "question": "What is the main use of USB cables?",
-      "options": ["To supply power to the computer", "To connect keyboards, mice, and printers to the computer", "To connect the computer to the internet", "To display video and audio on monitors and TVs"],
-      "answer": "To connect keyboards, mice, and printers to the computer"
+      "question": "The result of processed data is called -------------------.",
+      "options": ["information", "raw data", "program"],
+      "answer": "information"
     },
     {
       "id": 9,
-      "question": "___________ is a device used to magnify images or documents.",
-      "options": ["projector", "project", "painter", "pointer", "printer"],
-      "answer": "printer",
-      "corrected_answer": "projector"
+      "question": "The parts of a computer we cannot touch are called --------------------.",
+      "options": ["Hardware", "Software", "Program"],
+      "answer": "Software"
     },
     {
       "id": 10,
-      "question": "A working computer system is made up of hardware, software and ______________",
-      "options": ["commander", "Supporter", "User", "Connector", "cook"],
-      "answer": "User"
+      "question": "The hardware component of a computer that processes all the information entered into the computer is __________.",
+      "options": ["mouse", "universal serial bus", "system unit"],
+      "answer": "system unit"
     },
     {
       "id": 11,
-      "question": "_____________ ware is the person that operates a computer.",
-      "options": ["human", "animal", "clerk", "man computer", "follower"],
-      "answer": "human"
+      "question": "There are --------------- types of computer software.",
+      "options": ["Ten", "Two", "Four"],
+      "answer": "Two"
     },
     {
       "id": 12,
-      "question": "________ boot is the natural way of starting up a computer.",
-      "options": ["cold", "warm", "hot", "fresh"],
-      "answer": "warm",
-      "corrected_answer": "cold"
+      "question": "The ----------------------- cable brings electric power into machines.",
+      "options": ["USB", "power", "Ethernet"],
+      "answer": "power"
     },
     {
       "id": 13,
-      "question": "Pictures and folders are examples of _________ data",
-      "options": ["alphabetical", "numerical", "signs", "graphics"],
-      "answer": "graphics"
+      "question": "The brain of the computer is called …………",
+      "options": ["System unit", "Monitor", "Keyboard"],
+      "answer": "System unit"
     },
     {
       "id": 14,
-      "question": "__________ displays moving objects and passes information in form sound and pictures",
-      "options": ["radio", "television", "computer", "newspaper"],
-      "answer": "computer",
-      "corrected_answer": "television"
+      "question": "------------------- gives life to computer hardware to make them work.",
+      "options": ["CPU", "system unit", "software"],
+      "answer": "software"
     },
     {
       "id": 15,
-      "question": "___________ are printed papers containing news and comments.",
-      "options": ["radio", "television", "computer", "newspaper"],
-      "answer": "newspaper"
+      "question": "Instruction from the operator to the computer is called --------------------.",
+      "options": ["command", "program", "system"],
+      "answer": "command"
     },
     {
       "id": 16,
-      "question": "Which activity is commonly facilitated by GPS devices, a common IT gadget?",
-      "options": ["Ice skating", "Navigating routes and finding locations", "Performing magic tricks", "Riding horses"],
-      "answer": "Navigating routes and finding locations"
+      "question": "Computer -------------------- are wires used for connecting the various parts of the computer together.",
+      "options": ["machines", "cables", "software"],
+      "answer": "cables"
     },
     {
       "id": 17,
-      "question": "In what field are IT gadgets most commonly used?",
-      "options": ["Agriculture", "Medicine", "Construction", "Information technology"],
-      "answer": "Information technology"
+      "question": "Application packages and user programs are examples of ----------------- software.",
+      "options": ["system", "application software", "operating"],
+      "answer": "application software"
     },
     {
       "id": 18,
-      "question": "Which of the following best describes IT gadgets?",
-      "options": ["Items used for construction", "Devices utilizing advanced technology for various purposes", "Traditional hand tools", "Objects for artistic expression"],
-      "answer": "Devices utilizing advanced technology for various purposes"
+      "question": "The language the computer understands is the ----------------------- language.",
+      "options": ["English", "French", "machine"],
+      "answer": "machine"
     },
     {
       "id": 19,
-      "question": "Which term best characterizes IT gadgets?",
-      "options": ["Primitive", "Analog", "Digital", "Manual"],
-      "answer": "Digital"
+      "question": "A program that changes instruction in one language to another language is a ----------- program.",
+      "options": ["compiler", "assembler", "translating"],
+      "answer": "compiler"
     },
     {
       "id": 20,
-      "question": "How often should you back up data on IT gadgets?",
-      "options": ["Never", "Once a year", "Regularly, as per the device’s recommendations", "Only when the device is malfunctioning"],
-      "answer": "Regularly, as per the device’s recommendations"
+      "question": "Starting a computer after switching it off for a while is called",
+      "options": ["hard booting", "warm booting", "cold booting"],
+      "answer": "cold booting"
     }
   ]
 }

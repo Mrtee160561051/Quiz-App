@@ -1,7 +1,7 @@
 // Header.js
 import { useState } from "react";
 import { Link, useLocation } from 'react-router-dom';
-import img1 from "./image/greatLil.png";
+import img1 from "./image/Ava.jpg";
 
 const Header = (props) => {
   const [open, setOpen] = useState(false);

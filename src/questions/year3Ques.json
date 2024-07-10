@@ -2,143 +2,123 @@
   "year3Ques": [
     {
       "id": 1,
-      "question": "______ is an electronic device which processes instructions given to it.",
-      "image": "",
-      "options": ["Laptop", "television", "computer", "hard note"],
-      "answer": "computer"
-    },
-    {
-      "id": 2,
-      "question": "_____ is the box that contains the engine of the computer.",
-      "image": "",
-      "options": ["System number", "system machine", "system unit", "system engine"],
+      "question": "The ________ is the box that contains all the electronic components of a computer system.",
+      "options": ["system unit", "system storage", "system printing"],
       "answer": "system unit"
     },
     {
+      "id": 2,
+      "question": "CPU is not the brain of a computer.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
       "id": 3,
-      "question": "The full meaning of C.P.U is _________",
-      "image": "",
-      "options": ["central productive units", "control processing unit", "center programming unit", "central processing unit"],
-      "answer": "central processing unit"
+      "question": "The mostly used input device is called ______.",
+      "options": ["mouse", "keyboard", "joystick"],
+      "answer": "keyboard"
     },
     {
       "id": 4,
-      "question": "________ is used to type data into the computer.",
-      "image": "",
-      "options": ["Computer control", "computer keyboard", "computer mouse", "computer monitor"],
-      "answer": "computer keyboard"
+      "question": "An example of an ancient counting device is ______.",
+      "options": ["calculator", "pebbles", "computer"],
+      "answer": "pebbles"
     },
     {
       "id": 5,
-      "question": "_______ is a part of the computer used to move the cursor on the screen.",
-      "image": "",
-      "options": ["Mouse", "monitor", "keyboard", "C.P.U"],
-      "answer": "Mouse"
+      "question": "The full meaning of CPU is _______.",
+      "options": ["central processor unit", "central processing water", "central processing unit"],
+      "answer": "central processing unit"
     },
     {
       "id": 6,
-      "question": "________ is used to print out what is inside the computer on a piece of paper.",
-      "image": "",
-      "options": ["C.P.U", "R.A.M", "R.O.M", "printer"],
-      "answer": "printer"
+      "question": "The CPU is the brain of the computer.",
+      "options": ["True", "False"],
+      "answer": "True"
     },
     {
       "id": 7,
-      "question": "Which of these is not part of taking care of the computer.",
-      "image": "",
-      "options": ["Cleaning the computer", "by eating beside it", "by not putting heavy objects on it", "protecting it from fire"],
-      "answer": "by eating beside it"
+      "question": "One of the functions of a computer is to store ____.",
+      "options": ["information", "films", "drawings"],
+      "answer": "information"
     },
     {
       "id": 8,
-      "question": "______ is a program that allows us to do many tasks on the computer.",
-      "image": "",
-      "options": ["Desktop", "window", "Microsoft", "memory card"],
-      "answer": "Microsoft"
+      "question": "Which part of the computer does most of the data processing?",
+      "options": ["CPU", "keyboard", "book"],
+      "answer": "CPU"
     },
     {
       "id": 9,
-      "question": "Which of these is not part of a computer.",
-      "image": "",
-      "options": ["The monitor", "the stick", "a system unit", "a keyboard"],
-      "answer": "the stick"
-    },
-    {
-      "id": 10,
-      "question": "_______ are those objects a computer saves our work into.",
-      "image": "",
-      "options": ["storage devices", "storage destroyer", "devices", "desktop"],
+      "question": "_______ are devices where data or information are stored.",
+      "options": ["store", "bag", "storage devices"],
       "answer": "storage devices"
     },
     {
+      "id": 10,
+      "question": "The internal and external are not the two types of storage devices.",
+      "options": ["True", "False"],
+      "answer": "False"
+    },
+    {
       "id": 11,
-      "question": "The full meaning of R.A.M is _______",
-      "image": "",
-      "options": ["read access memory", "random access memory", "random android memory", "random access mother"],
-      "answer": "random access memory"
+      "question": "All are old counting devices except -----",
+      "options": ["stones", "toes/fingers", "computer"],
+      "answer": "computer"
     },
     {
       "id": 12,
-      "question": "There are ______ type of computer storage devices.",
-      "image": "",
-      "options": ["4", "3", "2", "1"],
-      "answer": "2"
+      "question": "What is the full meaning of ROM _____?",
+      "options": ["Read only memory", "Read only messages", "Read only money"],
+      "answer": "Read only memory"
     },
     {
       "id": 13,
-      "question": "_______ is an example of internal storage devices.",
-      "image": "",
-      "options": ["Memory", "flash disk", "floppy diskette", "compact disk"],
-      "answer": "Memory"
+      "question": "External storage devices is a _____ devices.",
+      "options": ["primary", "secondary", "tertiary"],
+      "answer": "secondary"
     },
     {
       "id": 14,
-      "question": "which of these is not a feature of storage devices.",
-      "image": "",
-      "options": ["They have small storage capacity", "they can store different types of work", "they are small in size", "they are removable"],
-      "answer": "They have small storage capacity"
+      "question": "What is the full meaning of RAM______?",
+      "options": ["Random Access memory", "Random Agent Memory", "Random Ancient Messages"],
+      "answer": "Random Access Memory"
     },
     {
       "id": 15,
-      "question": "The work in ______ can be changed and saved again.",
-      "image": "",
-      "options": ["R.O.M", "C.P.U", "R.A.M", "U.P.S"],
-      "answer": "R.A.M"
+      "question": "____ is any hardware device that sends data to a computer.",
+      "options": ["Input device", "Output device", "Storage device", "Processing device"],
+      "answer": "Input device"
     },
     {
       "id": 16,
-      "question": "There are _______ type of compact disk (CD).",
-      "image": "",
-      "options": ["6", "3", "4", "2"],
-      "answer": "3"
+      "question": "Hard copy is information shown on a ____.",
+      "options": ["screen", "paper", "book"],
+      "answer": "paper"
     },
     {
       "id": 17,
-      "question": "_______ has storage capacity while _______ has no storage capacity.",
-      "image": "",
-      "options": ["Storage disk and storage drive", "storage diskette and storage disc", "storage flash and capacity", "floppy diskette and floppy disk"],
-      "answer": "Storage disk and storage drive"
+      "question": "Which device is useful for watching movies?",
+      "options": ["banner", "projector", "radio"],
+      "answer": "projector"
     },
     {
       "id": 18,
-      "question": "The following are functions of a storage device except _______.",
-      "image": "",
-      "options": ["they are used to store computer programs", "they are used to store computer errors", "they are used to install software", "they are used to store and play music"],
-      "answer": "they are used to store computer errors"
+      "question": "Where do you connect the loudspeaker to before it can work?",
+      "options": ["system unit", "mouse", "ROM"],
+      "answer": "system unit"
     },
     {
       "id": 19,
-      "question": "The following are ways of caring for storage devices except_______.",
-      "image": "",
-      "options": ["Keeping them in a dusty place", "keeping them in a well ventilated place", "not allowing liquids to drop into them", "not twisting them"],
-      "answer": "Keeping them in a dusty place"
+      "question": "_____ is used to store music and video.",
+      "options": ["CD/DVD", "keyboard", "monitor"],
+      "answer": "CD/DVD"
     },
     {
       "id": 20,
-      "question": "Which of these is not an example of storage devices.",
-      "image": "",
-      "options": ["Hard disk", "compact disk", "magnetic tape disk", "soft drink"],
-      "answer": "soft drink"
+      "question": "____ contains the features of A – Z in a computer keyboard.",
+      "options": ["Numeric keys", "Alphabetic keys", "Function keys"],
+      "answer": "Alphabetic keys"
     }
   ]
 }
