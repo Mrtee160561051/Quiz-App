@@ -1,6 +1,6 @@
 import img1 from "../image/Ava.jpg";
 import { Link, useNavigate } from 'react-router-dom';
-const QuizHeader = ({ name, Class, showScore, setShowScore }) => {
+const QuizHeader = ({ name, Class, showScore, setShowScore,setClass,setName}) => {
    const navigate = useNavigate()
   return (
     <header className="bg-white py-1 sticky top-0 z-50 flex">
@@ -27,7 +27,8 @@ const QuizHeader = ({ name, Class, showScore, setShowScore }) => {
           </div>
           <button
             type="button"
-            onClick={() =>{setShowScore(true); showScore && navigate("/Quiz-App/")}}
+            onClick={() =>{setShowScore(true); showScore && navigate("/Quiz-App/");setClass("None");
+              setName("")}}
             className="pl-[2%] rounded-lg hover:text-[gray]"
           >
             <svg

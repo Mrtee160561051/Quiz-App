@@ -16,7 +16,7 @@ const Header = (props) => {
   ];
   return (
     <header className="bg-white py-1 sticky top-0 z-50">
-      <nav className="flex items-center justify-between w-[92%] mx-auto">
+      <nav className="flex min items-center justify-between w-[92%] mx-auto">
         <Link to={"/Quiz-App/"}><img className="w-[3.8rem]" src={img1} alt="school logo" /></Link>
         <svg
           className="text-[2em] z-50 w-8 md:hidden absolute top-2 right-7 cursor-pointer"

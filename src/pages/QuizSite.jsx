@@ -7,7 +7,7 @@ import year3Ques from '../questions/year3Ques.json';
 import year4Ques from '../questions/year4Ques.json';
 import year5Ques from '../questions/year5Ques.json';
 
-function QuizSite({ name, Class }) {
+function QuizSite({ name, Class,setClass,setName }) {
   const questionsMapping = {
     "year 1": year1Ques['year1Ques'],
     "year 2": year2Ques['year2Ques'],
@@ -119,7 +119,7 @@ function QuizSite({ name, Class }) {
   return (
     <>
       <form className='min-h-[80vh]' onSubmit={handleFormSubmit}>
-        <QuizHeader name={studentName} Class={studentClass} showScore={showScore} setShowScore={setShowScore} />
+        <QuizHeader name={studentName} setClass={setClass} setName={setName}  Class={studentClass} showScore={showScore} setShowScore={setShowScore} />
         <p className='text-center m-auto rounded-xl mt-3 bg-[#e6b82b] w-16'>ICT</p>
         {showScore ? (
           <div className='text-center text-2xl mt-5'>
