@@ -18,7 +18,7 @@ const Content = (props)=>{
          if(Class==="None"){
           alert("Add your class")
          }else{
-          navigate("/Quiz-App/quizSite", { state: { name, Class } });
+          navigate("/Quiz-App/quizSite", {state: { name, Class }});
          }
     }
     

@@ -11,6 +11,8 @@ import Contact from './pages/Contact';
 import Home from "./pages/Home";
 import Quiz from "./pages/Quiz";
 function App() {
+  const [Class,setClass] = useState("None");
+  const [name,setName] = useState("");
   const [hide,SetHide] = useState("hidden");
   const [block,SetBlock] = useState("block");
   const getStartedBtn=()=>{
@@ -26,10 +28,10 @@ function App() {
    const handleCancel =()=>{
     SetBlock("block");
     SetHide("hidden");
+    setClass("None");
+    setName("")
    }
-   
- const [Class,setClass] = useState("None");
- const [name,setName] = useState("");
+  
   return (
     <>
      <Router>
