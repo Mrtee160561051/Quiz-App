@@ -1,125 +1,124 @@
-  {
-    "year1Ques": [
-      {
-        "id": 1,
-        "question": "____________ is the type of clock display numerical digit.",
-        "options": ["Digital clock", "Analog clock", "Wristwatch"],
-        "answer": "Digital clock"
-      },
-      {
-        "id": 2,
-        "question": "_______ supply power into the digital wrist watch.",
-        "options": ["Battery", "Water", "Milk"],
-        "answer": "Battery"
-      },
-      {
-        "id": 3,
-        "question": "_________ monitor shows colours.",
-        "options": ["Colour Monitor", "Monochrome monitor", "None of the above"],
-        "answer": "Colour Monitor"
-      },
-      {
-        "id": 4,
-        "question": "_________ is a small device that perform arithmetic operation on number.",
-        "options": ["Stopwatch", "Calculator", "Home"],
-        "answer": "Calculator"
-      },
-      {
-        "id": 5,
-        "question": "________ is needed before you can start making, receiving calls and message with your mobile phone.",
-        "options": ["Sim", "Video", "Films"],
-        "answer": "Sim"
-      },
-      {
-        "id": 6,
-        "question": "Which is not an ICT device.",
-        "options": ["Pencil", "GSM phone", "Digital wristwatch"],
-        "answer": "Pencil"
-      },
-      {
-        "id": 7,
-        "question": "The mouse has how many button?",
-        "options": ["Two", "Four", "Five"],
-        "answer": "Two"
-      },
-      {
-        "id": 8,
-        "question": "A computer makes work_______ .",
-        "options": ["Easy and Faster", "Stronger", "Sharper"],
-        "answer": "Easy and Faster"
-      },
-      {
-        "id": 9,
-        "question": "Digital wristwatch shows time as _______________.",
-        "options": ["Letters", "Numbers", "Words"],
-        "answer": "Numbers"
-      },
-      {
-        "id": 10,
-        "question": "Addition and subtraction of digits can be done using _______________.",
-        "options": ["Calculators", "Water", "Paper"],
-        "answer": "Calculators"
-      },
-      {
-        "id": 11,
-        "question": "__________ is a wireless handheld device used for making and receiving calls and text messages.",
-        "options": ["Mobile phones", "Cars", "Televisions"],
-        "answer": "Mobile phones"
-      },
-      {
-        "id": 12,
-        "question": "_______ is used for typing.",
-        "options": ["Keyboard", "Mouse", "Monitor"],
-        "answer": "Keyboard"
-      },
-      {
-        "id": 13,
-        "question": "Computer is used for ________ in the hospital.",
-        "options": ["Scanning", "Counting", "Singing"],
-        "answer": "Scanning"
-      },
-      {
-        "id": 14,
-        "question": "What looks like a television? ______",
-        "options": ["Keyboard", "Monitor", "Mouse"],
-        "answer": "Monitor"
-      },
-      {
-        "id": 15,
-        "question": "______ is used to type a letter.",
-        "options": ["Mouse", "Keyboard", "UPS"],
-        "answer": "Keyboard"
-      },
-      {
-        "id": 16,
-        "question": "______ can be used to play computer game.",
-        "options": ["Leg", "UPS", "Joystick"],
-        "answer": "Joystick"
-      },
-      {
-        "id": 17,
-        "question": "It is a MUST to have a UPS to help protect your computer.",
-        "options": ["True", "False"],
-        "answer": "True"
-      },
-      {
-        "id": 18,
-        "question": "_______ is an electronic machine that accepts data.",
-        "options": ["Computer", "Keyboard", "Machine"],
-        "answer": "Computer"
-      },
-      {
-        "id": 19,
-        "question": "A digital wristwatch works like a computer.",
-        "options": ["True", "False"],
-        "answer": "True"
-      },
-      {
-        "id": 20,
-        "question": "Calculator is a common ICT device.",
-        "options": ["True", "False"],
-        "answer": "True"
-      }
-    ]
-  }
-  
+{
+  "year1Ques": [
+    {
+      "id": 1,
+      "question": "_________ is an electronic machine that accepts data.",
+      "options": ["Machine", "Computer", "Picture"],
+      "answer": "Computer"
+    },
+    {
+      "id": 2,
+      "question": "_________ is a machine that counts, calculates, and draws.",
+      "options": ["Computer", "Car", "Bicycle"],
+      "answer": "Computer"
+    },
+    {
+      "id": 3,
+      "question": "The keyboard keys have alphabet, number, and symbol.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 4,
+      "question": "The system unit is also known as ______.",
+      "options": ["C.P.U", "S.U.P", "Box"],
+      "answer": "C.P.U"
+    },
+    {
+      "id": 5,
+      "question": "A computer cannot make mistakes.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 6,
+      "question": "How many types of system units do we have?",
+      "options": ["Four", "Two", "One"],
+      "answer": "Two"
+    },
+    {
+      "id": 7,
+      "question": "_________ is like a television that shows text and pictures.",
+      "options": ["Monitor", "Keyboard", "Mouse"],
+      "answer": "Monitor"
+    },
+    {
+      "id": 8,
+      "question": "What is the shape of a system unit?",
+      "options": ["Circle", "Triangle", "Rectangle"],
+      "answer": "Rectangle"
+    },
+    {
+      "id": 9,
+      "question": "Monochrome is a type of monitor.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 10,
+      "question": "Monochrome monitor shows _______ color.",
+      "options": ["One", "Four", "Three"],
+      "answer": "One"
+    },
+    {
+      "id": 11,
+      "question": "Which button stops the monitor from working?",
+      "options": ["ON", "OFF"],
+      "answer": "OFF"
+    },
+    {
+      "id": 12,
+      "question": "_________ is used to point and select objects on the monitor.",
+      "options": ["Fingers", "Speaker", "Mouse"],
+      "answer": "Mouse"
+    },
+    {
+      "id": 13,
+      "question": "The speaker helps to listen to music on the computer.",
+      "options": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "id": 14,
+      "question": "The system unit is the _______ of the computer.",
+      "options": ["Brain", "Eyes", "Nose"],
+      "answer": "Brain"
+    },
+    {
+      "id": 15,
+      "question": "_________ is the longest key on the keyboard.",
+      "options": ["Enter key", "Caps lock", "Space key"],
+      "answer": "Space key"
+    },
+    {
+      "id": 16,
+      "question": "_________ is used to change to uppercase or lowercase.",
+      "options": ["Caps lock", "Number key", "Letter key"],
+      "answer": "Caps lock"
+    },
+    {
+      "id": 17,
+      "question": "Which button starts the monitor?",
+      "options": ["ON button", "OFF button"],
+      "answer": "ON button"
+    },
+    {
+      "id": 18,
+      "question": "What looks like a television?",
+      "options": ["Mouse", "Monitor", "Keyboard"],
+      "answer": "Monitor"
+    },
+    {
+      "id": 19,
+      "question": "The mouse has _______ and _______ buttons.",
+      "options": ["Up and Down", "Right and Left"],
+      "answer": "Right and Left"
+    },
+    {
+      "id": 20,
+      "question": "_________ prints on paper what you see on the monitor.",
+      "options": ["System unit", "Monitor", "Printer"],
+      "answer": "Printer"
+    }
+  ]
+}

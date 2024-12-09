@@ -2,363 +2,93 @@
   "year5Ques": [
     {
       "id": 1,
-      "question": "A mouse can do the following except _____.",
-      "options": ["double click", "save information inside the mouse", "left and right click", "drag or move object from one place to another"],
-      "answer": "save information inside the mouse"
+      "question": "These are parts of a computer EXCEPT __________.",
+      "options": ["Mouse", "Socket", "Keyboard", "Monitor"],
+      "answer": "Socket"
     },
     {
       "id": 2,
-      "question": "Laptop, desktop, notebook, and pocket size computers are examples of _____.",
-      "options": ["super computers", "mainframe computers", "omega computers", "micro or personal computers"],
-      "answer": "micro or personal computers"
+      "question": "A computer can perform the following EXCEPT __________.",
+      "options": ["Frying", "Drawing", "Playing", "Typing"],
+      "answer": "Frying"
     },
     {
       "id": 3,
-      "question": "One of the computer cables is called _____.",
-      "options": ["battery cable", "power cable", "power socket", "power switch"],
-      "answer": "power cable"
+      "question": "Which of these is a drawing package?",
+      "options": ["MS Excel", "MS Word", "Corel Draw", "Power Point"],
+      "answer": "Corel Draw"
     },
     {
       "id": 4,
-      "question": "These are electronics devices except a _______.",
-      "options": ["television set", "cupboard", "radio", "computer"],
-      "answer": "cupboard"
+      "question": "Which of these is a pointing device?",
+      "options": ["Monitor", "Mouse", "Keyboard", "Light pen"],
+      "answer": "Mouse"
     },
     {
       "id": 5,
-      "question": "One of these cannot be used to solve arithmetic problems:",
-      "options": ["calculator", "computer", "shutters", "mobile phone"],
-      "answer": "shutters"
+      "question": "Which of these computer parts works like a television?",
+      "options": ["Mouse", "Speaker", "Monitor", "Keyboard"],
+      "answer": "Monitor"
     },
     {
       "id": 6,
-      "question": "After processing, a computer result is the _____.",
-      "options": ["output", "input", "control unit", "copies"],
-      "answer": "output"
+      "question": "Printer is an example of a __________ device.",
+      "options": ["Output", "Input", "Inner", "Outer"],
+      "answer": "Output"
     },
     {
       "id": 7,
-      "question": "_____ is the founder of Microsoft.",
-      "options": ["Professor Wole Soyinka", "Bill Graham", "William Henry", "Bill Gates"],
-      "answer": "Bill Gates"
+      "question": "A group of interconnected computers is called __________.",
+      "options": ["Connection", "Internet", "Network", "Intranet"],
+      "answer": "Network"
     },
     {
       "id": 8,
-      "question": "To insert spaces between words while typing we use _______.",
-      "options": ["Caps lock key", "space bar", "back space key", "shift key"],
-      "answer": "space bar"
+      "question": "How to create, edit, and retrieve a document is called __________.",
+      "options": ["Word environment", "Word star", "Word processing", "Word editing"],
+      "answer": "Word processing"
     },
     {
       "id": 9,
-      "question": "The mouse can move smoothly because it has _____.",
-      "options": ["two small tyres", "two small chains", "a moveable ball", "a special magnet"],
-      "answer": "a moveable ball"
-    },
-    {
-      "id": 10,
-      "question": "The action of pressing the mouse to carry out a specific command is called ____. ",
-      "options": ["command tuning", "clicking", "downloading", "pointing"],
-      "answer": "clicking"
-    },
-    {
-      "id": 11,
-      "question": "The methods of booting a computer are _____.",
-      "options": ["wet, dry, and rain booting", "cold booting, and warm booting", "hot, dry, and warm booting", "wet, warm, hot, and dry booting"],
-      "answer": "cold booting, and warm booting"
-    },
-    {
-      "id": 12,
-      "question": "Information in raw or unorganized form such as alphabet, numbers or symbols that represent ideas or objects is called _____.",
-      "options": ["alphanumeric", "output", "data", "input"],
-      "answer": "data"
-    },
-    {
-      "id": 13,
-      "question": "A piece of information that can be seen and heard is called _____.",
-      "options": ["reality", "televised information", "audio", "audiovisual"],
-      "answer": "audiovisual"
-    },
-    {
-      "id": 14,
-      "question": "The term used to describe the process of closing all software programs in preparation to turn off is called _____.",
-      "options": ["computer’s power", "close up", "turn off", "shut down"],
-      "answer": "shut down"
-    },
-    {
-      "id": 15,
-      "question": "There are _____ methods in booting a computer.",
-      "options": ["5", "4", "3", "2"],
-      "answer": "2"
-    },
-    {
-      "id": 16,
-      "question": "Data that are written in letters A to Z are called _____.",
-      "options": ["alphanumeric data", "numeric data", "alphabetic data", "lettered data"],
-      "answer": "alphabetic data"
-    },
-    {
-      "id": 17,
-      "question": "______ is the arrangement of data into meaningful and useful information.",
-      "options": ["Data processing", "Information management", "Computerization", "Softwaring"],
-      "answer": "Data processing"
-    },
-    {
-      "id": 18,
-      "question": "What a computer can process is called _____.",
-      "options": ["work", "output", "application", "Input"],
-      "answer": "Input"
-    },
-    {
-      "id": 19,
-      "question": "The part of the computer which works like the human eye is called the _____.",
-      "options": ["hard disk", "monitor", "scanner", "mouse"],
-      "answer": "monitor"
-    },
-    {
-      "id": 20,
-      "question": "Which of the following describes a correct usage of computer?",
-      "options": ["Cyberbullying", "Scamming", "Spamming", "Storing information"],
-      "answer": "Storing information"
-    },
-    {
-      "id": 21,
-      "question": "______________ is a place where all deleted files and documents are kept?",
-      "options": ["recycle bin", "dustbin", "waste bin", "trash bin"],
-      "answer": "recycle bin"
-    },
-    {
-      "id": 22,
-      "question": "When the mouse button is pressed twice quickly and released, it's known as ____________.",
-      "options": ["Dragging", "Double clicking", "Clicking", "Flapping"],
-      "answer": "Double clicking"
-    },
-    {
-      "id": 23,
-      "question": "The following are software used for typing except _____________.",
-      "options": ["Word pad", "Microsoft Word", "Photoshop", "Microsoft Excel"],
-      "answer": "Photoshop"
-    },
-    {
-      "id": 24,
-      "question": "Before carrying out any command on a text, you must first ___________.",
-      "options": ["Highlight", "Drag", "Permission", "Click"],
-      "answer": "Highlight"
-    },
-    {
-      "id": 25,
-      "question": "The term O.S means _________.",
-      "options": ["Open statement", "Operating system", "Operating state", "Open Sentence"],
-      "answer": "Operating system"
-    },
-    {
-      "id": 26,
-      "question": "Development of computer from one period to another is called _______.",
-      "options": ["Computer age", "Computer generation", "Computer stage", "Computer development"],
-      "answer": "Computer generation"
-    },
-    {
-      "id": 27,
-      "question": "A computer system which supplies other remote computers with processed information is called ___________.",
-      "options": ["Client", "Server", "Processor", "Supplier"],
-      "answer": "Server"
-    },
-    {
-      "id": 28,
-      "question": "Microsoft Word is primarily used for _________.",
-      "options": ["Calculation", "Typing", "Drawing", "Painting"],
-      "answer": "Typing"
-    },
-    {
-      "id": 29,
-      "question": "When a text is moved from one document to another, it is called __________.",
-      "options": ["Copy and paste", "Cut and paste", "Delete", "Move and paste"],
-      "answer": "Cut and paste"
-    },
-    {
-      "id": 30,
-      "question": "People who write instructions for computers to solve problems are called ________.",
-      "options": ["Producer", "Programmer", "Writer", "Processor"],
-      "answer": "Programmer"
-    },
-    {
-      "id": 31,
-      "question": "A program installed in a computer for typing is called _________.",
-      "options": ["E-mail", "Data", "Word processor", "Software"],
-      "answer": "Word processor"
-    },
-    {
-      "id": 32,
-      "question": "One of these is not considered as a drawing package:",
-      "options": ["Ms-Word", "Paint Artist", "Corel draw", "Paint environment"],
-      "answer": "Ms-Word"
-    },
-    {
-      "id": 33,
-      "question": "The acronym C.P.U. means _________.",
-      "options": ["Computer Processing Unit", "Central Programming Unit", "Central Processing Unit", "Center Processing Unit"],
-      "answer": "Central Processing Unit"
-    },
-    {
-      "id": 34,
-      "question": "A place on the internet where computer users can find necessary information is called ___________.",
-      "options": ["Software", "Web cam", "Website", "Webster"],
-      "answer": "Website"
-    },
-    {
-      "id": 35,
-      "question": "For you to write on the computer, you need a ____________.",
-      "options": ["Marker", "Joystick", "Keyboard", "Data"],
-      "answer": "Keyboard"
-    },
-    {
-      "id": 36,
-      "question": "The longest key on the keyboard is _________.",
-      "options": ["Space bar key", "Enter key", "Backspace key", "Cap lock key"],
-      "answer": "Space bar key"
-    },
-    {
-      "id": 37,
-      "question": "If Ctrl + A means select all text, then Ctrl + B means .__",
-      "options": ["Refresh the current program", "Save current document file", "Change selected text to be bold", "Print all text"],
-      "answer": "Change selected text to be bold"
-    },
-    {
-      "id": 38,
-      "question": "\"GIGO\" is a computer term that means _____________.",
-      "options": ["Go in, go out", "Get in, get out", "Garbage in, garbage out", "Barge in, barge out"],
-      "answer": "Garbage in, garbage out"
-    },
-    {
-      "id": 39,
-      "question": "Information from a computer that has been printed on paper is called ____________.",
-      "options": ["Computer print", "Soft copy", "Hard copy", "Master copy"],
-      "answer": "Hard copy"
-    },
-    {
-      "id": 40,
-      "question": "When you want to make a document, you are said to _______ a document.",
-      "options": ["Make", "Keep", "Create", "Design"],
-      "answer": "Create"
-    },
-    {
-      "id": 41,
-      "question": "Ctrl + X means _______________.",
-      "options": ["Cut selected item", "Copy selected item", "Save the current document file", "Cut and paste selected item"],
-      "answer": "Cut selected item"
-    },
-    {
-      "id": 42,
-      "question": "After using the computer, the next thing to do is_____________.",
-      "options": ["Short down", "Shut up", "Shut down", "Close down"],
-      "answer": "Shut down"
-    },
-    {
-      "id": 43,
-      "question": "What is E-mail?",
-      "options": ["Electronic mail", "Electrical mail", "Every mail", "Electronic mall"],
-      "answer": "Electronic mail"
-    },
-    {
-      "id": 44,
-      "question": "Ctrl + V means _______________.",
-      "options": ["Save", "Copy", "Paste", "Delete"],
-      "answer": "Paste"
-    },
-    {
-      "id": 45,
-      "question": "An input device that looks like the gear selector of a car used for playing a computer game is called ____________.",
-      "options": ["Light pen", "Special pen", "Joystick", "Pen pad"],
-      "answer": "Joystick"
-    },
-    {
-      "id": 46,
-      "question": "The word YEAR FIVE will be underlined if I press ___________",
-      "options": ["Ctrl + N", "Ctrl + W", "Ctrl + U", "Ctrl + P"],
+      "question": "The word CLEVER will be underlined if I press __________.",
+      "options": ["Ctrl + N", "Ctrl + B", "Ctrl + C", "Ctrl + U"],
       "answer": "Ctrl + U"
     },
     {
-      "id": 47,
-      "question": "If a red wavy line is shown in MS word it means _____________",
-      "options": ["Spelling error", "Danger", "Correction", "Red alert"],
-      "answer": "Spelling error"
+      "id": 10,
+      "question": "WAN means __________.",
+      "options": ["Wide Area Network", "Width Area Network", "Weight Area Network", "Wired Area Network"],
+      "answer": "Wide Area Network"
     },
     {
-      "id": 48,
-      "question": "Data can be defined as a __________.",
-      "options": ["raw unprocessed facts", "Processed facts", "sources of information", "manipulated information"],
-      "answer": "raw unprocessed facts"
+      "id": 11,
+      "question": "All of these are examples of computer networks EXCEPT __________.",
+      "options": ["LAN", "NLC", "MAN", "WAN"],
+      "answer": "NLC"
     },
     {
-      "id": 49,
-      "question": "The shading of objects after drawing is to make the work look _________.",
-      "options": ["flat", "Attractive", "Beautiful", "Colourful"],
-      "answer": "Attractive"
+      "id": 12,
+      "question": "Which of these is not an advantage of a computer network?",
+      "options": ["It saves time", "It allows networking", "It distributes virus", "It allows the sharing of resources"],
+      "answer": "It distributes virus"
     },
     {
-      "id": 50,
-      "question": "Which of the following can be called the brain of computer?",
-      "options": ["ROM", "CPU", "RAM", "UPS"],
-      "answer": "CPU"
+      "id": 13,
+      "question": "__________ gives shortcuts to menu commands.",
+      "options": ["Menu bar", "Toolbar", "Ruler", "Title bar"],
+      "answer": "Toolbar"
     },
     {
-      "id": 51,
-      "question": "What does ‘F’ means on the F1, F2, F3, etc., in the computer keyboard?",
-      "options": ["Format", "Function", "File", "Find"],
-      "answer": "Function"
+      "id": 14,
+      "question": "All these are types of toolbars EXCEPT __________.",
+      "options": ["Star toolbar", "Standard toolbar", "Formatting toolbar"],
+      "answer": "Star toolbar"
     },
     {
-      "id": 52,
-      "question": "Which is not a computer Input device?",
-      "options": ["Web camera", "Printer", "Keyboard", "Mouse"],
-      "answer": "Printer"
-    },
-    {
-      "id": 53,
-      "question": "Choose the two kinds of storage devices used by a computer.",
-      "options": ["Flash drive and Hard drive", "Motherboard and Monitor", "Scanner and Keyboard", "Speaker and Microphone"],
-      "answer": "Flash drive and Hard drive"
-    },
-    {
-      "id": 54,
-      "question": "A computer language used for programming is:",
-      "options": ["English Language", "French", "Java", "Windows"],
-      "answer": "Java"
-    },
-    {
-      "id": 55,
-      "question": "What is the physical part of a computer called?",
-      "options": ["System unit", "Program", "Hardware", "Software"],
-      "answer": "Hardware"
-    },
-    {
-      "id": 56,
-      "question": "Base 2 is called _____.",
-      "options": ["binary", "denary", "octave", "basic base"],
-      "answer": "binary"
-    },
-    {
-      "id": 57,
-      "question": "avaacademy@yahoo.com is a/an ______.",
-      "options": ["Official address", "Email address", "Computer address", "Website address"],
-      "answer": "Email address"
-    },
-    {
-      "id": 58,
-      "question": "One of these is not a characteristic of a computer system?",
-      "options": ["Speed", "Accuracy", "Consistency", "Problematic"],
-      "answer": "Problematic"
-    },
-    {
-      "id": 59,
-      "question": "An example of a removable storage device is _____.",
-      "options": ["system unit", "visual display unit", "flash drive", "motherboard"],
-      "answer": "flash drive"
-    },
-    {
-      "id": 60,
-      "question": "The computer and robots imitate man through their _____.",
-      "options": ["natural intelligence", "superior intelligence", "advanced intelligence", "artificial intelligence"],
-      "answer": "artificial intelligence"
+      "id": 15,
+      "question": "Typing is done in word processor with the help of the __________.",
+      "options": ["Piano", "Printer", "Keyboard", "Speaker"],
+      "answer": "Keyboard"
     }
   ]
 }

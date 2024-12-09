@@ -1,124 +1,125 @@
 {
   "year2Ques": [
-    {
-      "id": 1,
-      "question": "Where can we find the motherboard in a computer?",
-      "options": ["Monitor", "Mouse", "System"],
-      "answer": "System"
-    },
-    {
-      "id": 2,
-      "question": "The CPU has ______ parts",
-      "options": ["4", "3", "6"],
-      "answer": "3"
-    },
-    {
-      "id": 3,
-      "question": "________ connects all the different parts of the computer together.",
-      "options": ["Keyboard", "Mouse", "Motherboard"],
-      "answer": "Motherboard"
-    },
-    {
-      "id": 4,
-      "question": "The _____________ is the heart & brain of the computer.",
-      "options": ["Printer", "CPU", "System"],
-      "answer": "CPU"
-    },
-    {
-      "id": 5,
-      "question": "ALU means: _______________",
-      "options": ["Art logic unit", "Arithmetic logic unit", "Arithmetic lock unit"],
-      "answer": "Arithmetic logic unit"
-    },
-    {
-      "id": 6,
-      "question": "ROM means _____________",
-      "options": ["Read on memory", "Read only memory", "Read only method"],
-      "answer": "Read only memory"
-    },
-    {
-      "id": 7,
-      "question": "The _______ is the device that reads & writes information that is on a computer.",
-      "options": ["Disk", "Drive", "Disk drive"],
-      "answer": "Disk drive"
-    },
-    {
-      "id": 8,
-      "question": "The _________ is the box that contains all the electronic components of a system.",
-      "options": ["Data", "Disk", "System unit"],
-      "answer": "System unit"
-    },
-    {
-      "id": 9,
-      "question": "Printers of the different parts",
-      "options": ["False", "True"],
-      "answer": "False"
-    },
-    {
-      "id": 10,
-      "question": "DVD means",
-      "options": ["Digital video distance", "Disk video disc", "Digital video disc"],
-      "answer": "Digital video disc"
-    },
-    {
-      "id": 11,
-      "question": "There are _____ types of system unit casing.",
-      "options": ["4", "2", "6"],
-      "answer": "2"
-    },
-    {
-      "id": 12,
-      "question": "CPU means",
-      "options": ["Central Production Unit", "Centre Processing Unit", "Central Processing Unit"],
-      "answer": "Central Processing Unit"
-    },
-    {
-      "id": 13,
-      "question": "Computer is an",
-      "options": ["electrical device", "electronic device", "machine device"],
-      "answer": "electronic device"
-    },
-    {
-      "id": 14,
-      "question": "The CPU is divided into ___ parts.",
-      "options": ["3", "2", "6"],
-      "answer": "2"
-    },
-    {
-      "id": 15,
-      "question": "Projectors can be used in the schools, offices & churches.",
-      "options": ["True", "False"],
-      "answer": "True"
-    },
-    {
-      "id": 16,
-      "question": "RAM means :",
-      "options": ["Read Access Memo", "Read Access Monitor", "Read Access Memory"],
-      "answer": "Read Access Memory"
-    },
-    {
-      "id": 17,
-      "question": "________ saves information",
-      "options": ["Printer", "Motherboard", "Computer"],
-      "answer": "Computer"
-    },
-    {
-      "id": 18,
-      "question": "Where can we find the motherboard in a computer?",
-      "options": ["Monitor", "System unit", "Printer"],
-      "answer": "System unit"
-    },
-    {
-      "id": 19,
-      "question": "The computer makes our works faster and easier.",
-      "options": ["True", "False"],
-      "answer": "True"
-    },
-    {
-      "id": 20,
-      "question": "Printers bring out different colours in printing.",
-      "options": ["True", "False"],
-      "answer": "True"
+        {
+          "id": 1,
+          "question": "__________ are the physical components of a computer system that work together to perform tasks.",
+          "options": ["Computer parts", "Keyboard", "Mouse"],
+          "answer": "Computer parts"
+        },
+        {
+          "id": 2,
+          "question": "Which of these is not a computer part?",
+          "options": ["Mouse", "CPU", "Box"],
+          "answer": "Box"
+        },
+        {
+          "id": 3,
+          "question": "__________ displays pictures, videos, and texts. It looks like a TV screen.",
+          "options": ["CPU", "Printer", "Monitor"],
+          "answer": "Monitor"
+        },
+        {
+          "id": 4,
+          "question": "__________ is a machine that takes information from the computer and prints it on paper.",
+          "options": ["Joystick", "Printer", "Headphone"],
+          "answer": "Printer"
+        },
+        {
+          "id": 5,
+          "question": "__________ is the part of the computer used for typing letters, numbers, and symbols.",
+          "options": ["Keyboard", "Printer", "Joystick"],
+          "answer": "Keyboard"
+        },
+        {
+          "id": 6,
+          "question": "The symbol ‘@` is used when writing an email address.",
+          "options": ["True", "False"],
+          "answer": "True"
+        },
+        {
+          "id": 7,
+          "question": "__________ are symbols on the keyboard that are not letters (a-z) or numbers (0-9).",
+          "options": ["Symbols", "Special Characters", "Computer"],
+          "answer": "Special Characters"
+        },
+        {
+          "id": 8,
+          "question": "Which of these is a type of monitor?",
+          "options": ["LED monitor", "Bold monitor", "White monitor"],
+          "answer": "LED monitor"
+        },
+        {
+          "id": 9,
+          "question": "Which of these is not a type of mouse?",
+          "options": ["Optical mouse", "Mechanical mouse", "Bold mouse"],
+          "answer": "Bold mouse"
+        },
+        {
+          "id": 10,
+          "question": "A mouse can point objects on the monitor.",
+          "options": ["True", "False"],
+          "answer": "True"
+        },
+        {
+          "id": 11,
+          "question": "A mouse can be used to select icons on the computer.",
+          "options": ["True", "False"],
+          "answer": "True"
+        },
+        {
+          "id": 12,
+          "question": "__________ is an input device used to enter characters and functions into the computer system by pressing buttons or keys.",
+          "options": ["Printer", "Keyboard", "Speaker"],
+          "answer": "Keyboard"
+        },
+        {
+          "id": 13,
+          "question": "Keyboard is used to type messages on the computer.",
+          "options": ["True", "False"],
+          "answer": "True"
+        },
+        {
+          "id": 14,
+          "question": "__________ is an electronic machine that helps us do tasks like writing, drawing, and finding information.",
+          "options": ["Computer", "CPU", "Printer"],
+          "answer": "Computer"
+        },
+        {
+          "id": 15,
+          "question": "Alphabet Keys are found on the keyboard.",
+          "options": ["True", "False"],
+          "answer": "True"
+        },
+        {
+          "id": 16,
+          "question": "Numeric Keys are found on the keyboard.",
+          "options": ["True", "False"],
+          "answer": "True"
+        },
+        {
+          "id": 17,
+          "question": "__________ is used for numerical input and calculations on the computer.",
+          "options": ["Alphabet keys", "Numeric Keys", "Black keys"],
+          "answer": "Numeric Keys"
+        },
+        {
+          "id": 18,
+          "question": "__________ is used for typing text.",
+          "options": ["Numeric keys", "Alphabet Keys", "Black keys"],
+          "answer": "Alphabet Keys"
+        },
+        {
+          "id": 19,
+          "question": "Which of these is a special character?",
+          "options": ["#", "2", "R"],
+          "answer": "#"
+        },
+        {
+          "id": 20,
+          "question": "Which of these is not a special character?",
+          "options": ["&", "@", "K"],
+          "answer": "K"
+        }
+      ]
     }
-  ]
-}
+    

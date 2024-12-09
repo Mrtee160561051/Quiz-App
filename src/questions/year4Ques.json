@@ -2,123 +2,123 @@
   "year4Ques": [
     {
       "id": 1,
-      "question": "--------------------------- is the process of starting a computer and loading the operating system.",
-      "options": ["switching", "booting", "joining"],
-      "answer": "booting"
+      "question": "Keyboard, microphone, and scanner are __________ devices.",
+      "options": ["Input", "Output", "Storage"],
+      "answer": "Input"
     },
     {
       "id": 2,
-      "question": "What we feed into a computer is called -------------------.",
-      "options": ["food", "data", "information"],
-      "answer": "data"
+      "question": "RAM stands for __________.",
+      "options": ["Ramadan Animal for Muslims", "Random Access Memory", "Read Account Memory"],
+      "answer": "Random Access Memory"
     },
     {
       "id": 3,
-      "question": "The work a computer hardware can do is dependent on -----------------.",
-      "options": ["software", "computer system", "storage"],
-      "answer": "software"
+      "question": "The work a computer hardware can do is dependent on __________.",
+      "options": ["Software", "Computer system", "Storage"],
+      "answer": "Software"
     },
     {
       "id": 4,
-      "question": "Information produced on a paper by a printer is called ------------- copy information.",
-      "options": ["hard", "soft", "cool"],
-      "answer": "hard"
+      "question": "CPU is found on the __________.",
+      "options": ["Motherboard", "Fatherboard", "Uncleboard"],
+      "answer": "Motherboard"
     },
     {
       "id": 5,
-      "question": "To restart a computer without switching it off is known as ---------------.",
-      "options": ["warm booting", "cold booting", "soft booting"],
-      "answer": "warm booting"
+      "question": "The __________ is called the real computer.",
+      "options": ["Keyboard", "Monitor", "CPU"],
+      "answer": "CPU"
     },
     {
       "id": 6,
-      "question": "Monitor, Printer, and Speaker are -------------- devices.",
-      "options": ["input", "output", "storage"],
-      "answer": "output"
+      "question": "Monitor, printer, and speaker are __________ devices.",
+      "options": ["Input", "Output", "Storage"],
+      "answer": "Output"
     },
     {
       "id": 7,
-      "question": "The system unit is an example of computer --------------------.",
-      "options": ["software", "hardware", "storage"],
-      "answer": "hardware"
+      "question": "The motherboard is found inside the __________ unit.",
+      "options": ["Board", "System", "CPU"],
+      "answer": "System"
     },
     {
       "id": 8,
-      "question": "The result of processed data is called -------------------.",
-      "options": ["information", "raw data", "program"],
-      "answer": "information"
+      "question": "The system unit is an example of computer __________.",
+      "options": ["Software", "Hardware", "Storage"],
+      "answer": "Hardware"
     },
     {
       "id": 9,
-      "question": "The parts of a computer we cannot touch are called --------------------.",
+      "question": "USB stands for __________.",
+      "options": ["Universal Serial Bus", "United Service Bus", "Universal Service Bus"],
+      "answer": "Universal Serial Bus"
+    },
+    {
+      "id": 10,
+      "question": "The parts of a computer we cannot touch are called __________.",
       "options": ["Hardware", "Software", "Program"],
       "answer": "Software"
     },
     {
-      "id": 10,
-      "question": "The hardware component of a computer that processes all the information entered into the computer is __________.",
-      "options": ["mouse", "universal serial bus", "system unit"],
-      "answer": "system unit"
-    },
-    {
       "id": 11,
-      "question": "There are --------------- types of computer software.",
-      "options": ["Ten", "Two", "Four"],
-      "answer": "Two"
+      "question": "The result of processed data is called __________.",
+      "options": ["Information", "Raw data", "Program"],
+      "answer": "Information"
     },
     {
       "id": 12,
-      "question": "The ----------------------- cable brings electric power into machines.",
-      "options": ["USB", "power", "Ethernet"],
-      "answer": "power"
+      "question": "CPU is the __________ of the computer.",
+      "options": ["Heart", "Brain", "Mouth"],
+      "answer": "Brain"
     },
     {
       "id": 13,
-      "question": "The brain of the computer is called …………",
-      "options": ["System unit", "Monitor", "Keyboard"],
-      "answer": "System unit"
+      "question": "__________ is used to display processed data on a sheet of paper.",
+      "options": ["Printer", "Monitor", "Speaker"],
+      "answer": "Printer"
     },
     {
       "id": 14,
-      "question": "------------------- gives life to computer hardware to make them work.",
-      "options": ["CPU", "system unit", "software"],
-      "answer": "software"
+      "question": "Memory card is an example of __________ device.",
+      "options": ["Output", "Storage", "Input"],
+      "answer": "Storage"
     },
     {
       "id": 15,
-      "question": "Instruction from the operator to the computer is called --------------------.",
-      "options": ["command", "program", "system"],
-      "answer": "command"
+      "question": "The device that stores data permanently is called __________.",
+      "options": ["Flash card", "Hard disk", "CPU"],
+      "answer": "Hard disk"
     },
     {
       "id": 16,
-      "question": "Computer -------------------- are wires used for connecting the various parts of the computer together.",
-      "options": ["machines", "cables", "software"],
-      "answer": "cables"
+      "question": "Computers can perform __________ different tasks at the same time.",
+      "options": ["Many", "Few", "Two"],
+      "answer": "Many"
     },
     {
       "id": 17,
-      "question": "Application packages and user programs are examples of ----------------- software.",
-      "options": ["system", "application software", "operating"],
-      "answer": "application software"
+      "question": "__________ produces sound information or output.",
+      "options": ["Keyboard", "Scanner", "Speaker"],
+      "answer": "Speaker"
     },
     {
       "id": 18,
-      "question": "The language the computer understands is the ----------------------- language.",
-      "options": ["English", "French", "machine"],
-      "answer": "machine"
+      "question": "The parts of a computer we can touch are called __________.",
+      "options": ["Hardware", "Software", "Program"],
+      "answer": "Hardware"
     },
     {
       "id": 19,
-      "question": "A program that changes instruction in one language to another language is a ----------- program.",
-      "options": ["compiler", "assembler", "translating"],
-      "answer": "compiler"
+      "question": "Another name for motherboard is __________.",
+      "options": ["Main board", "CPU", "Computer"],
+      "answer": "Main board"
     },
     {
       "id": 20,
-      "question": "Starting a computer after switching it off for a while is called",
-      "options": ["hard booting", "warm booting", "cold booting"],
-      "answer": "cold booting"
+      "question": "The hardware component of a computer that processes all the information entered is __________.",
+      "options": ["Mouse", "Universal Serial Bus", "System unit"],
+      "answer": "System unit"
     }
   ]
 }

@@ -1,124 +1,125 @@
 {
   "year3Ques": [
-    {
-      "id": 1,
-      "question": "The ________ is the box that contains all the electronic components of a computer system.",
-      "options": ["system unit", "system storage", "system printing"],
-      "answer": "system unit"
-    },
-    {
-      "id": 2,
-      "question": "CPU is not the brain of a computer.",
-      "options": ["True", "False"],
-      "answer": "False"
-    },
-    {
-      "id": 3,
-      "question": "The mostly used input device is called ______.",
-      "options": ["mouse", "keyboard", "joystick"],
-      "answer": "keyboard"
-    },
-    {
-      "id": 4,
-      "question": "An example of an ancient counting device is ______.",
-      "options": ["calculator", "pebbles", "computer"],
-      "answer": "pebbles"
-    },
-    {
-      "id": 5,
-      "question": "The full meaning of CPU is _______.",
-      "options": ["central processor unit", "central processing water", "central processing unit"],
-      "answer": "central processing unit"
-    },
-    {
-      "id": 6,
-      "question": "The CPU is the brain of the computer.",
-      "options": ["True", "False"],
-      "answer": "True"
-    },
-    {
-      "id": 7,
-      "question": "One of the functions of a computer is to store ____.",
-      "options": ["information", "films", "drawings"],
-      "answer": "information"
-    },
-    {
-      "id": 8,
-      "question": "Which part of the computer does most of the data processing?",
-      "options": ["CPU", "keyboard", "book"],
-      "answer": "CPU"
-    },
-    {
-      "id": 9,
-      "question": "_______ are devices where data or information are stored.",
-      "options": ["store", "bag", "storage devices"],
-      "answer": "storage devices"
-    },
-    {
-      "id": 10,
-      "question": "The internal and external are not the two types of storage devices.",
-      "options": ["True", "False"],
-      "answer": "False"
-    },
-    {
-      "id": 11,
-      "question": "All are old counting devices except -----",
-      "options": ["stones", "toes/fingers", "computer"],
-      "answer": "computer"
-    },
-    {
-      "id": 12,
-      "question": "What is the full meaning of ROM _____?",
-      "options": ["Read only memory", "Read only messages", "Read only money"],
-      "answer": "Read only memory"
-    },
-    {
-      "id": 13,
-      "question": "External storage devices is a _____ devices.",
-      "options": ["primary", "secondary", "tertiary"],
-      "answer": "secondary"
-    },
-    {
-      "id": 14,
-      "question": "What is the full meaning of RAM______?",
-      "options": ["Random Access memory", "Random Agent Memory", "Random Ancient Messages"],
-      "answer": "Random Access Memory"
-    },
-    {
-      "id": 15,
-      "question": "____ is any hardware device that sends data to a computer.",
-      "options": ["Input device", "Output device", "Storage device", "Processing device"],
-      "answer": "Input device"
-    },
-    {
-      "id": 16,
-      "question": "Hard copy is information shown on a ____.",
-      "options": ["screen", "paper", "book"],
-      "answer": "paper"
-    },
-    {
-      "id": 17,
-      "question": "Which device is useful for watching movies?",
-      "options": ["banner", "projector", "radio"],
-      "answer": "projector"
-    },
-    {
-      "id": 18,
-      "question": "Where do you connect the loudspeaker to before it can work?",
-      "options": ["system unit", "mouse", "ROM"],
-      "answer": "system unit"
-    },
-    {
-      "id": 19,
-      "question": "_____ is used to store music and video.",
-      "options": ["CD/DVD", "keyboard", "monitor"],
-      "answer": "CD/DVD"
-    },
-    {
-      "id": 20,
-      "question": "____ contains the features of A – Z in a computer keyboard.",
-      "options": ["Numeric keys", "Alphabetic keys", "Function keys"],
-      "answer": "Alphabetic keys"
-    }
-  ]
-}
+      {
+        "id": 1,
+        "question": "The pascaline was invented by __________.",
+        "options": ["Blaise Pascal", "John Napier", "William Oughtred"],
+        "answer": "Blaise Pascal"
+      },
+      {
+        "id": 2,
+        "question": "Who is the father of computer?",
+        "options": ["Augusta Byron", "Blaise Pascal", "Charles Babbage"],
+        "answer": "Charles Babbage"
+      },
+      {
+        "id": 3,
+        "question": "How old was Blaise Pascal when he invented the pascaline?",
+        "options": ["20 years old", "21 years old", "19 years old"],
+        "answer": "19 years old"
+      },
+      {
+        "id": 4,
+        "question": "The first female programmer is __________.",
+        "options": ["Ngozi Ifeanyi", "Ada Augusta Byron", "Adichie Chimamanda"],
+        "answer": "Ada Augusta Byron"
+      },
+      {
+        "id": 5,
+        "question": "The two machines invented by Charles Babbage were __________.",
+        "options": ["Input and output device", "Analytical and difference engine", "Laptop and desktop"],
+        "answer": "Analytical and difference engine"
+      },
+      {
+        "id": 6,
+        "question": "Charles Babbage is from which country?",
+        "options": ["Jamaica", "Australia", "England"],
+        "answer": "England"
+      },
+      {
+        "id": 7,
+        "question": "What type of computer has the qualities of both an analogue and digital computer?",
+        "options": ["Hybrid", "Analogue", "Digital"],
+        "answer": "Hybrid"
+      },
+      {
+        "id": 8,
+        "question": "__________ are very fast computers that use binary (0 and 1) to display information.",
+        "options": ["Hybrid", "Analogue", "Digital"],
+        "answer": "Digital"
+      },
+      {
+        "id": 9,
+        "question": "__________ are computers that are slow to solve problems.",
+        "options": ["Hybrid", "Analogue", "Digital"],
+        "answer": "Analogue"
+      },
+      {
+        "id": 10,
+        "question": "A counting device using columns of beads that can move up and down is called __________.",
+        "options": ["Hybrid", "Abacus", "Digital"],
+        "answer": "Abacus"
+      },
+      {
+        "id": 11,
+        "question": "One of the following is not an example of an early counting device.",
+        "options": ["Calculator", "Stones", "Pebbles"],
+        "answer": "Calculator"
+      },
+      {
+        "id": 12,
+        "question": "__________ are devices used in ancient times to carry out arithmetic operations such as addition, subtraction, multiplication, and division.",
+        "options": ["Mechanical devices", "Early counting devices", "Digital computers"],
+        "answer": "Early counting devices"
+      },
+      {
+        "id": 13,
+        "question": "__________ is an electronic machine that performs different operations.",
+        "options": ["Machine gun", "Television", "Computer"],
+        "answer": "Computer"
+      },
+      {
+        "id": 14,
+        "question": "Computer is used for performing __________ operations.",
+        "options": ["Walking", "Addition", "Cooking"],
+        "answer": "Addition"
+      },
+      {
+        "id": 15,
+        "question": "__________ is an early counting device.",
+        "options": ["Finger", "Calculator", "Computer"],
+        "answer": "Finger"
+      },
+      {
+        "id": 16,
+        "question": "These are body counting devices.",
+        "options": ["Stone, rock", "Stomach and stick", "Finger, toes"],
+        "answer": "Finger, toes"
+      },
+      {
+        "id": 17,
+        "question": "Computer can be used everywhere except __________.",
+        "options": ["Bank", "Toilet", "School"],
+        "answer": "Toilet"
+      },
+      {
+        "id": 18,
+        "question": "__________ is used to print out our work.",
+        "options": ["Monitor", "CPU", "Printer"],
+        "answer": "Printer"
+      },
+      {
+        "id": 19,
+        "question": "The monitor is like a __________.",
+        "options": ["Television", "Radio", "Nylon"],
+        "answer": "Television"
+      },
+      {
+        "id": 20,
+        "question": "The mouse controls the __________ on the screen.",
+        "options": ["Keyboard", "Cursor", "CPU"],
+        "answer": "Cursor"
+      }
+    ]
+  }
+  
